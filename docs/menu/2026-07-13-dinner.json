@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-13",
+  "meal": "dinner",
+  "label": "13 Temmuz Akşam Yemeği",
+  "capturedAt": "2026-07-13T18:58:05.280Z",
+  "dishes": [
+    {
+      "id": 24,
+      "name": "ALACA ÇORBASI",
+      "category": "soup",
+      "kcal": 178.2,
+      "protein": 4.9,
+      "carb": 17,
+      "fat": 8.6,
+      "vegetarian": false
+    },
+    {
+      "id": 444,
+      "name": "KIYMALI ISPANAK",
+      "category": "main",
+      "kcal": 134.5,
+      "protein": 10,
+      "carb": 5.8,
+      "fat": 9.5,
+      "vegetarian": false
+    },
+    {
+      "id": 2104,
+      "name": "PATATESLİ GÜL BÖREĞİ",
+      "category": "side",
+      "kcal": 319.9,
+      "protein": 4.7,
+      "carb": 38.6,
+      "fat": 17.4,
+      "vegetarian": false
+    },
+    {
+      "id": 4144,
+      "name": "MOZAİK PASTA",
+      "category": "extra",
+      "kcal": 313.5,
+      "protein": 6.2,
+      "carb": 56.2,
+      "fat": 6.2,
+      "vegetarian": false
+    },
+    {
+      "id": 2664,
+      "name": "YOĞURT",
+      "category": "extra",
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
+      "vegetarian": false
+    }
+  ]
+}
