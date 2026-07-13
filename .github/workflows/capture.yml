@@ -1,0 +1,38 @@
+name: Capture İTÜ menu
+
+# İTÜ only ever exposes the currently-served menu, so we snapshot it during each
+# meal's service window (times are UTC; Istanbul is UTC+3).
+on:
+  schedule:
+    - cron: '30 10 * * *'   # 13:30 Istanbul — lunch service
+    - cron: '0 17 * * *'    # 20:00 Istanbul — dinner service
+  workflow_dispatch: {}      # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: capture
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Capture today's menu
+        run: node capture.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "itu-menu-bot"
+          git config user.email "actions@github.com"
+          git add docs/menu
+          if git diff --cached --quiet; then
+            echo "No menu change."
+          else
+            git commit -m "menu: capture $(date -u +%F)"
+            git push
+          fi
