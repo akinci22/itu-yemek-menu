@@ -15,12 +15,12 @@
     },
     {
       "id": 0,
-      "name": "Hindi Külbastı",
+      "name": "Hindi Sote",
       "category": "main",
-      "kcal": 239.8,
-      "protein": 37.9,
-      "carb": 0.4,
-      "fat": 8.4,
+      "kcal": 273.9,
+      "protein": 38.6,
+      "carb": 4.7,
+      "fat": 9.5,
       "vegetarian": false
     },
     {
@@ -64,5 +64,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-14T01:18:43.836Z"
+  "capturedAt": "2026-07-14T11:53:18.902Z"
 }

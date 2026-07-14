@@ -1,8 +1,7 @@
 {
   "date": "2026-07-13",
   "meal": "dinner",
-  "label": "13 Temmuz Akşam Yemeği",
-  "capturedAt": "2026-07-13T19:02:34.294Z",
+  "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
@@ -55,5 +54,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-14T01:18:41.262Z"
+  "capturedAt": "2026-07-14T11:53:15.277Z"
 }
