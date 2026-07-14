@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-17",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Yeşil Mercimekli Ayran Çorbası",
+      "category": "soup",
+      "kcal": 176.4,
+      "protein": 8.6,
+      "carb": 16.7,
+      "fat": 9.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Şehriyeli  Güveç",
+      "category": "main",
+      "kcal": 469.8,
+      "protein": 32.8,
+      "carb": 35.1,
+      "fat": 32.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sebze Graten",
+      "category": "side",
+      "kcal": 262.9,
+      "protein": 7,
+      "carb": 20.1,
+      "fat": 16.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kısır",
+      "category": "extra",
+      "kcal": 186.1,
+      "protein": 4.2,
+      "carb": 30.3,
+      "fat": 3.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Havuç Lahana Salatası",
+      "category": "extra",
+      "kcal": 148.8,
+      "protein": 1.9,
+      "carb": 8.6,
+      "fat": 10.4,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:42.609Z"
+}

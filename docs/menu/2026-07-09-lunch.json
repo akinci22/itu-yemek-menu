@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-09",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Mercimek Çorbası",
+      "category": "soup",
+      "kcal": 186.8,
+      "protein": 8.4,
+      "carb": 17.1,
+      "fat": 8.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurtlu Etli Mantı",
+      "category": "main",
+      "kcal": 334.2,
+      "protein": 15.5,
+      "carb": 36,
+      "fat": 14.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Soslu Karışık Kızartma",
+      "category": "side",
+      "kcal": 192.6,
+      "protein": 3.5,
+      "carb": 11.5,
+      "fat": 13.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Bisküvili Pasta",
+      "category": "extra",
+      "kcal": 348.3,
+      "protein": 7.3,
+      "carb": 62.3,
+      "fat": 6.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Limonata",
+      "category": "extra",
+      "kcal": 30,
+      "protein": 0,
+      "carb": 8.1,
+      "fat": 0,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:38.420Z"
+}

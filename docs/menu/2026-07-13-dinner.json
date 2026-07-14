@@ -5,8 +5,8 @@
   "capturedAt": "2026-07-13T19:02:34.294Z",
   "dishes": [
     {
-      "id": 24,
-      "name": "ALACA ÇORBASI",
+      "id": 0,
+      "name": "Alaca Çorbası",
       "category": "soup",
       "kcal": 178.2,
       "protein": 4.9,
@@ -15,8 +15,8 @@
       "vegetarian": false
     },
     {
-      "id": 444,
-      "name": "KIYMALI ISPANAK",
+      "id": 0,
+      "name": "Kıymalı Ispanak",
       "category": "main",
       "kcal": 134.5,
       "protein": 10,
@@ -25,8 +25,8 @@
       "vegetarian": false
     },
     {
-      "id": 2104,
-      "name": "PATATESLİ GÜL BÖREĞİ",
+      "id": 0,
+      "name": "Patatesli Gül Böreği",
       "category": "side",
       "kcal": 319.9,
       "protein": 4.7,
@@ -35,8 +35,8 @@
       "vegetarian": false
     },
     {
-      "id": 4144,
-      "name": "MOZAİK PASTA",
+      "id": 0,
+      "name": "Mozaik Pasta",
       "category": "extra",
       "kcal": 313.5,
       "protein": 6.2,
@@ -45,8 +45,8 @@
       "vegetarian": false
     },
     {
-      "id": 2664,
-      "name": "YOĞURT",
+      "id": 0,
+      "name": "Yoğurt",
       "category": "extra",
       "kcal": 88.5,
       "protein": 5.9,
@@ -54,5 +54,6 @@
       "fat": 5.7,
       "vegetarian": false
     }
-  ]
+  ],
+  "capturedAt": "2026-07-14T01:18:41.262Z"
 }

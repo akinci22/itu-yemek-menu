@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-25",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Arpa Şehriyeli Ayran Çorbası",
+      "category": "soup",
+      "kcal": 182.1,
+      "protein": 7.6,
+      "carb": 19.9,
+      "fat": 9.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Tavuklu Bezelye",
+      "category": "main",
+      "kcal": 288.7,
+      "protein": 26.2,
+      "carb": 20.8,
+      "fat": 14.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mısırlı Pirinç Pilavı",
+      "category": "side",
+      "kcal": 371.1,
+      "protein": 5.8,
+      "carb": 59.2,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Cevizli Baklava",
+      "category": "extra",
+      "kcal": 404.9,
+      "protein": 4.6,
+      "carb": 57.9,
+      "fat": 18.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Maş Fasulyesi Salatası",
+      "category": "extra",
+      "kcal": 222.4,
+      "protein": 11.4,
+      "carb": 18.1,
+      "fat": 9.1,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:48.511Z"
+}

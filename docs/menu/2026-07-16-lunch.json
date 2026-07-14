@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-16",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Nohutlu Ayran  Çorbası",
+      "category": "soup",
+      "kcal": 179.9,
+      "protein": 8.2,
+      "carb": 15.6,
+      "fat": 9.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Tavuk Tantuni",
+      "category": "main",
+      "kcal": 518.3,
+      "protein": 35.4,
+      "carb": 31.2,
+      "fat": 30.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mevsim Salatası",
+      "category": "side",
+      "kcal": 75.5,
+      "protein": 1.2,
+      "carb": 4.4,
+      "fat": 5.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Limonata",
+      "category": "extra",
+      "kcal": 30,
+      "protein": 0,
+      "carb": 8.1,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kavun",
+      "category": "extra",
+      "kcal": 82,
+      "protein": 1.8,
+      "carb": 24.8,
+      "fat": 0.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Kızartması",
+      "category": "extra",
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:42.264Z"
+}

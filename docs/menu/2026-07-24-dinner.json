@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-24",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Mercimek Çorbası",
+      "category": "soup",
+      "kcal": 186.8,
+      "protein": 8.4,
+      "carb": 17.1,
+      "fat": 8.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Böfstrogonof",
+      "category": "main",
+      "kcal": 229.3,
+      "protein": 25.9,
+      "carb": 3.3,
+      "fat": 22.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Patlıcanlı Bulgur Pilavı",
+      "category": "side",
+      "kcal": 320.7,
+      "protein": 5.5,
+      "carb": 39.3,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Çoban Salatası",
+      "category": "extra",
+      "kcal": 86.2,
+      "protein": 1.4,
+      "carb": 4.4,
+      "fat": 6.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Ayran",
+      "category": "extra",
+      "kcal": 91.4,
+      "protein": 4.8,
+      "carb": 6.2,
+      "fat": 5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Kızartması",
+      "category": "extra",
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:48.152Z"
+}

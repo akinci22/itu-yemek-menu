@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-20",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Saray Çorbası",
+      "category": "soup",
+      "kcal": 144.2,
+      "protein": 6.5,
+      "carb": 14,
+      "fat": 5.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Çıtır Tavuk",
+      "category": "main",
+      "kcal": 409,
+      "protein": 32.3,
+      "carb": 11.7,
+      "fat": 30.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Salçalı Makarna",
+      "category": "side",
+      "kcal": 299.9,
+      "protein": 7.7,
+      "carb": 42.9,
+      "fat": 9.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Havuç Tarator",
+      "category": "extra",
+      "kcal": 193.6,
+      "protein": 4.9,
+      "carb": 12.6,
+      "fat": 14,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Gazoz",
+      "category": "extra",
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Kızartması",
+      "category": "extra",
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:45.356Z"
+}

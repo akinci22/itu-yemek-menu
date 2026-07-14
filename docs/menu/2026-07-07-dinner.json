@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-07",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Kremalı Domates  Çorbası",
+      "category": "soup",
+      "kcal": 163.3,
+      "protein": 1.6,
+      "carb": 8.8,
+      "fat": 12.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kıymalı Kabak Dolması",
+      "category": "main",
+      "kcal": 206.4,
+      "protein": 10.3,
+      "carb": 17.8,
+      "fat": 12.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Peynirli Kol Böreği",
+      "category": "side",
+      "kcal": 349.2,
+      "protein": 7,
+      "carb": 35.9,
+      "fat": 20.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Haydari",
+      "category": "extra",
+      "kcal": 156.5,
+      "protein": 6.4,
+      "carb": 6,
+      "fat": 8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Meyve Suyu",
+      "category": "extra",
+      "kcal": 239,
+      "protein": 1.2,
+      "carb": 57,
+      "fat": 0.2,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:37.798Z"
+}

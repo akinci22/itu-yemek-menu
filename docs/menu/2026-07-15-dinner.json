@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-15",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Yeşil Mercimekli Ayran Çorbası",
+      "category": "soup",
+      "kcal": 176.4,
+      "protein": 8.6,
+      "carb": 16.7,
+      "fat": 9.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Tepsi Köfte",
+      "category": "main",
+      "kcal": 354,
+      "protein": 21.4,
+      "carb": 17.2,
+      "fat": 24.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Zeytinyağlı Kereviz",
+      "category": "side",
+      "kcal": 178.4,
+      "protein": 2.8,
+      "carb": 10.6,
+      "fat": 12.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Makarna Salatası",
+      "category": "extra",
+      "kcal": 221.2,
+      "protein": 6.8,
+      "carb": 35.2,
+      "fat": 5.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Armut",
+      "category": "extra",
+      "kcal": 93.6,
+      "protein": 0.9,
+      "carb": 22.3,
+      "fat": 0.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Püresi",
+      "category": "extra",
+      "kcal": 86.4,
+      "protein": 2.2,
+      "carb": 13.8,
+      "fat": 1,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:42.088Z"
+}

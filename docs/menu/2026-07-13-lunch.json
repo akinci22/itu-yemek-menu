@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-13",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Nohutlu Ayran  Çorbası",
+      "category": "soup",
+      "kcal": 179.9,
+      "protein": 8.2,
+      "carb": 15.6,
+      "fat": 9.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Adana Dürüm",
+      "category": "main",
+      "kcal": 435.4,
+      "protein": 23.6,
+      "carb": 32.5,
+      "fat": 21.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mevsim Salatası",
+      "category": "side",
+      "kcal": 75.5,
+      "protein": 1.2,
+      "carb": 4.4,
+      "fat": 5.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Şeftali",
+      "category": "extra",
+      "kcal": 118,
+      "protein": 1.6,
+      "carb": 17.8,
+      "fat": 0.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kola",
+      "category": "extra",
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:41.052Z"
+}

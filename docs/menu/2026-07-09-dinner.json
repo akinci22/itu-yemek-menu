@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-09",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Mısırlı Ayran Çorbası",
+      "category": "soup",
+      "kcal": 174,
+      "protein": 7.1,
+      "carb": 16.1,
+      "fat": 9.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Dana Haşlama",
+      "category": "main",
+      "kcal": 323.8,
+      "protein": 28.6,
+      "carb": 13.5,
+      "fat": 27.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Meyhane Pilavı",
+      "category": "side",
+      "kcal": 264.6,
+      "protein": 4.5,
+      "carb": 32.7,
+      "fat": 10.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Brokoli Salatası",
+      "category": "extra",
+      "kcal": 90.9,
+      "protein": 3.7,
+      "carb": 4.5,
+      "fat": 5.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Elma",
+      "category": "extra",
+      "kcal": 104.4,
+      "protein": 0.5,
+      "carb": 25.9,
+      "fat": 0,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:38.629Z"
+}

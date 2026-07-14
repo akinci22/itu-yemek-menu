@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-21",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Andaloz Çorbası",
+      "category": "soup",
+      "kcal": 141.5,
+      "protein": 1.7,
+      "carb": 12.2,
+      "fat": 9.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fırın Köfte",
+      "category": "main",
+      "kcal": 353.8,
+      "protein": 21.4,
+      "carb": 17.1,
+      "fat": 24.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Soslu Karışık Kızartma",
+      "category": "side",
+      "kcal": 192.6,
+      "protein": 3.5,
+      "carb": 11.5,
+      "fat": 13.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurt",
+      "category": "extra",
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kısır",
+      "category": "extra",
+      "kcal": 186.1,
+      "protein": 4.2,
+      "carb": 30.3,
+      "fat": 3.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Arpa Şehriye Pilavı",
+      "category": "extra",
+      "kcal": 200.1,
+      "protein": 5.6,
+      "carb": 31.7,
+      "fat": 5.5,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:46.174Z"
+}

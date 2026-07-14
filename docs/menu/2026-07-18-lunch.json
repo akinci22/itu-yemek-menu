@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-18",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Mahluta Çorbası",
+      "category": "soup",
+      "kcal": 178.2,
+      "protein": 8,
+      "carb": 17.9,
+      "fat": 7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Hindi Külbastı",
+      "category": "main",
+      "kcal": 239.8,
+      "protein": 37.9,
+      "carb": 0.4,
+      "fat": 8.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kremalı Mantarlı Fesleğenli Makarna",
+      "category": "side",
+      "kcal": 292,
+      "protein": 8.6,
+      "carb": 43.1,
+      "fat": 9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Karpuz",
+      "category": "extra",
+      "kcal": 60,
+      "protein": 1.2,
+      "carb": 16.6,
+      "fat": 0.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Meyve Suyu",
+      "category": "extra",
+      "kcal": 239,
+      "protein": 1.2,
+      "carb": 57,
+      "fat": 0.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Püresi",
+      "category": "extra",
+      "kcal": 86.4,
+      "protein": 2.2,
+      "carb": 13.8,
+      "fat": 1,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:43.836Z"
+}

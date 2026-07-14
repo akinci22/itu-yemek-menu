@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-21",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Alaca Çorbası",
+      "category": "soup",
+      "kcal": 178.2,
+      "protein": 4.9,
+      "carb": 17,
+      "fat": 8.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sosyete Mantısı",
+      "category": "main",
+      "kcal": 445.2,
+      "protein": 22.4,
+      "carb": 61.6,
+      "fat": 19.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Zeytinyağlı Karnabahar-brokoli",
+      "category": "side",
+      "kcal": 92.8,
+      "protein": 3.8,
+      "carb": 5,
+      "fat": 5.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fasulye Piyazı",
+      "category": "extra",
+      "kcal": 250.7,
+      "protein": 12,
+      "carb": 22.2,
+      "fat": 11.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Krem Şokola",
+      "category": "extra",
+      "kcal": 268.7,
+      "protein": 4.6,
+      "carb": 51.4,
+      "fat": 3.7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:45.912Z"
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-23",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Ezogelin Çorbası",
+      "category": "soup",
+      "kcal": 197.1,
+      "protein": 7.4,
+      "carb": 19.2,
+      "fat": 8.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Hasanpaşa Köfte",
+      "category": "main",
+      "kcal": 446.7,
+      "protein": 24.1,
+      "carb": 23.7,
+      "fat": 30.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Peynirli Makarna",
+      "category": "side",
+      "kcal": 330.6,
+      "protein": 9.5,
+      "carb": 46.4,
+      "fat": 13.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Ayran",
+      "category": "extra",
+      "kcal": 91.4,
+      "protein": 4.8,
+      "carb": 6.2,
+      "fat": 5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Rus Salatası",
+      "category": "extra",
+      "kcal": 203,
+      "protein": 5.1,
+      "carb": 13.5,
+      "fat": 15.7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:46.810Z"
+}

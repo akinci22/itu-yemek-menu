@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-25",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Tarhana Çorbası",
+      "category": "soup",
+      "kcal": 102.8,
+      "protein": 0.3,
+      "carb": 0.6,
+      "fat": 5.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Salçalı Hindi Biftek",
+      "category": "main",
+      "kcal": 270.3,
+      "protein": 39.1,
+      "carb": 8.3,
+      "fat": 7.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurtlu Ispanak",
+      "category": "side",
+      "kcal": 134.2,
+      "protein": 6.1,
+      "carb": 4,
+      "fat": 10.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Havuç Lahana Salatası",
+      "category": "extra",
+      "kcal": 148.8,
+      "protein": 1.9,
+      "carb": 8.6,
+      "fat": 10.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Arpa Şehriye Slatası",
+      "category": "extra",
+      "kcal": 303,
+      "protein": 7.3,
+      "carb": 38.8,
+      "fat": 12.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Bulgur Pilavı",
+      "category": "extra",
+      "kcal": 203.5,
+      "protein": 3.8,
+      "carb": 28.3,
+      "fat": 6.5,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:48.327Z"
+}

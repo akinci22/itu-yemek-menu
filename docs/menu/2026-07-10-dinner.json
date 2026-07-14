@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-10",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Alaca Çorbası",
+      "category": "soup",
+      "kcal": 178.2,
+      "protein": 4.9,
+      "carb": 17,
+      "fat": 8.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Türlü",
+      "category": "main",
+      "kcal": 222.2,
+      "protein": 14.5,
+      "carb": 13.2,
+      "fat": 14.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Bulgur Pilavı",
+      "category": "side",
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sütlü İrmik Tatlısı",
+      "category": "extra",
+      "kcal": 310.1,
+      "protein": 6.7,
+      "carb": 53.1,
+      "fat": 5.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kuru Börülce Salatası",
+      "category": "extra",
+      "kcal": 81.5,
+      "protein": 9.8,
+      "carb": 20,
+      "fat": 5.6,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:39.130Z"
+}

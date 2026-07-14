@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-24",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Mısırlı Ayran Çorbası",
+      "category": "soup",
+      "kcal": 174,
+      "protein": 7.1,
+      "carb": 16.1,
+      "fat": 9.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Taze Fasulye",
+      "category": "main",
+      "kcal": 184.8,
+      "protein": 12.3,
+      "carb": 9.5,
+      "fat": 13.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Pirinç Pilavı",
+      "category": "side",
+      "kcal": 363.8,
+      "protein": 5.6,
+      "carb": 58.3,
+      "fat": 12.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Trileçe",
+      "category": "extra",
+      "kcal": 244.9,
+      "protein": 5.3,
+      "carb": 28.7,
+      "fat": 7.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Nohut Salatası",
+      "category": "extra",
+      "kcal": 166.4,
+      "protein": 8.7,
+      "carb": 21.1,
+      "fat": 2.3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:47.205Z"
+}

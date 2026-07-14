@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-07",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Arpa Şehriye Çorbası",
+      "category": "soup",
+      "kcal": 132.8,
+      "protein": 2,
+      "carb": 11.6,
+      "fat": 8.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Et Döner",
+      "category": "main",
+      "kcal": 310.7,
+      "protein": 21.6,
+      "carb": 3.9,
+      "fat": 19.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mevsim Salatası",
+      "category": "side",
+      "kcal": 75.5,
+      "protein": 1.2,
+      "carb": 4.4,
+      "fat": 5.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Ayran",
+      "category": "extra",
+      "kcal": 91.4,
+      "protein": 4.8,
+      "carb": 6.2,
+      "fat": 5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Hindistan Cevizli Muhallebi",
+      "category": "extra",
+      "kcal": 276,
+      "protein": 4.8,
+      "carb": 41.8,
+      "fat": 8.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Pirinç Pilavı",
+      "category": "extra",
+      "kcal": 224.6,
+      "protein": 3.7,
+      "carb": 38.9,
+      "fat": 6.3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:37.590Z"
+}

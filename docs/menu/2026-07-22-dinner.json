@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-22",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Kremalı Domates  Çorbası",
+      "category": "soup",
+      "kcal": 163.3,
+      "protein": 1.6,
+      "carb": 8.8,
+      "fat": 12.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Piliç Pirzola",
+      "category": "main",
+      "kcal": 343.4,
+      "protein": 25.4,
+      "carb": 0.2,
+      "fat": 20.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sebzeli Makarna",
+      "category": "side",
+      "kcal": 297,
+      "protein": 8.1,
+      "carb": 43.9,
+      "fat": 9.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Limonata",
+      "category": "extra",
+      "kcal": 30,
+      "protein": 0,
+      "carb": 8.1,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Havuçlu Kereviz",
+      "category": "extra",
+      "kcal": 224.5,
+      "protein": 3.5,
+      "carb": 6.9,
+      "fat": 20.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Elma Dilim Patates Kızartması",
+      "category": "extra",
+      "kcal": 162.6,
+      "protein": 3.1,
+      "carb": 19.5,
+      "fat": 7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:46.605Z"
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-27",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Toyga Çorbası",
+      "category": "soup",
+      "kcal": 141.7,
+      "protein": 4.2,
+      "carb": 14.9,
+      "fat": 6.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kıymalı Biber Dolması",
+      "category": "main",
+      "kcal": 299.1,
+      "protein": 11.5,
+      "carb": 37.1,
+      "fat": 13.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fırın Makarna",
+      "category": "side",
+      "kcal": 413.2,
+      "protein": 12.2,
+      "carb": 41.8,
+      "fat": 24,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurt",
+      "category": "extra",
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Hindistan Cevizli Muhallebi",
+      "category": "extra",
+      "kcal": 276,
+      "protein": 4.8,
+      "carb": 41.8,
+      "fat": 8.3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:49.786Z"
+}

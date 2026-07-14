@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-11",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Arpa Şehriyeli Ayran Çorbası",
+      "category": "soup",
+      "kcal": 182.1,
+      "protein": 7.6,
+      "carb": 19.9,
+      "fat": 9.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Köri Soslu Piliç Kavurma",
+      "category": "main",
+      "kcal": 503.9,
+      "protein": 26.7,
+      "carb": 3.4,
+      "fat": 42.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Soslu Makarna",
+      "category": "side",
+      "kcal": 303.8,
+      "protein": 8,
+      "carb": 43.7,
+      "fat": 9.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Gazoz",
+      "category": "extra",
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Roka Salatası",
+      "category": "extra",
+      "kcal": 78.4,
+      "protein": 2.2,
+      "carb": 2.1,
+      "fat": 6.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Küp Patates Kızartması",
+      "category": "extra",
+      "kcal": 202,
+      "protein": 3.5,
+      "carb": 23,
+      "fat": 9.9,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:40.271Z"
+}

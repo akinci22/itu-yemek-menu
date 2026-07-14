@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-26",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Nohutlu Ayran  Çorbası",
+      "category": "soup",
+      "kcal": 179.9,
+      "protein": 8.2,
+      "carb": 15.6,
+      "fat": 9.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Hamburger Köfte",
+      "category": "main",
+      "kcal": 353.8,
+      "protein": 21.4,
+      "carb": 17.1,
+      "fat": 24.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kremalı Mantarlı Fesleğenli Makarna",
+      "category": "side",
+      "kcal": 292,
+      "protein": 8.6,
+      "carb": 43.1,
+      "fat": 9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Meyve Suyu",
+      "category": "extra",
+      "kcal": 239,
+      "protein": 1.2,
+      "carb": 57,
+      "fat": 0.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kavun",
+      "category": "extra",
+      "kcal": 82,
+      "protein": 1.8,
+      "carb": 24.8,
+      "fat": 0.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Sebzeli Püre",
+      "category": "extra",
+      "kcal": 115,
+      "protein": 2.8,
+      "carb": 15.5,
+      "fat": 3.2,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:48.925Z"
+}

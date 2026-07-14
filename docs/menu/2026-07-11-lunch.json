@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-11",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Toyga Çorbası",
+      "category": "soup",
+      "kcal": 141.7,
+      "protein": 4.2,
+      "carb": 14.9,
+      "fat": 6.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Bezelye",
+      "category": "main",
+      "kcal": 221.6,
+      "protein": 17.9,
+      "carb": 20.8,
+      "fat": 11.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Şehriyeli Pirinç Pilavı",
+      "category": "side",
+      "kcal": 398.3,
+      "protein": 7.1,
+      "carb": 65,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Browni",
+      "category": "extra",
+      "kcal": 293.1,
+      "protein": 4.1,
+      "carb": 45,
+      "fat": 9.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurt",
+      "category": "extra",
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:40.012Z"
+}

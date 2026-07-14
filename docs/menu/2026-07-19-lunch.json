@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-19",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Yoğurtlu Buğday Çorbası",
+      "category": "soup",
+      "kcal": 116,
+      "protein": 3.2,
+      "carb": 13.1,
+      "fat": 5.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Patates Oturtma",
+      "category": "main",
+      "kcal": 257.3,
+      "protein": 10.2,
+      "carb": 18.9,
+      "fat": 16.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kabak Tarator",
+      "category": "side",
+      "kcal": 191.5,
+      "protein": 6.7,
+      "carb": 7.3,
+      "fat": 14.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yeşil Mercimek Salatası",
+      "category": "extra",
+      "kcal": 159.2,
+      "protein": 8,
+      "carb": 18.5,
+      "fat": 5.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Revani",
+      "category": "extra",
+      "kcal": 328.9,
+      "protein": 4,
+      "carb": 74.5,
+      "fat": 3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:44.501Z"
+}

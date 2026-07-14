@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-14",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Erzincan Çorbası",
+      "category": "soup",
+      "kcal": 114.1,
+      "protein": 4,
+      "carb": 10.3,
+      "fat": 7.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Kuru Fasulye",
+      "category": "main",
+      "kcal": 287.4,
+      "protein": 20.6,
+      "carb": 23.2,
+      "fat": 14,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sebzeli Pirinç Pilavı",
+      "category": "side",
+      "kcal": 355.4,
+      "protein": 5.8,
+      "carb": 56,
+      "fat": 12.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Çoban Salatası",
+      "category": "extra",
+      "kcal": 86.2,
+      "protein": 1.4,
+      "carb": 4.4,
+      "fat": 6.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Cacık",
+      "category": "extra",
+      "kcal": 74.5,
+      "protein": 4.2,
+      "carb": 5.2,
+      "fat": 4.9,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:41.445Z"
+}

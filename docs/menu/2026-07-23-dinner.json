@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-23",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Kremalı Mantar Çorbası",
+      "category": "soup",
+      "kcal": 131.2,
+      "protein": 2,
+      "carb": 7.7,
+      "fat": 10.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurtlu Etli Mantı",
+      "category": "main",
+      "kcal": 334.2,
+      "protein": 15.5,
+      "carb": 36,
+      "fat": 14.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Barbunya Pilaki",
+      "category": "side",
+      "kcal": 179.8,
+      "protein": 10.4,
+      "carb": 20.5,
+      "fat": 10.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Browni",
+      "category": "extra",
+      "kcal": 293.1,
+      "protein": 4.1,
+      "carb": 45,
+      "fat": 9.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Karnabahar-brokoli Salatası",
+      "category": "extra",
+      "kcal": 86.9,
+      "protein": 3.1,
+      "carb": 4.4,
+      "fat": 5.4,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:47.013Z"
+}

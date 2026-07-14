@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-27",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Mısırlı Ayran Çorbası",
+      "category": "soup",
+      "kcal": 174,
+      "protein": 7.1,
+      "carb": 16.1,
+      "fat": 9.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Hünkar Beğendi",
+      "category": "main",
+      "kcal": 401.3,
+      "protein": 30.4,
+      "carb": 7.5,
+      "fat": 37.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Bulgur Pilavı",
+      "category": "side",
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Akdeniz Salatası",
+      "category": "extra",
+      "kcal": 111.7,
+      "protein": 2,
+      "carb": 3.8,
+      "fat": 10,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Erik",
+      "category": "extra",
+      "kcal": 87,
+      "protein": 0.9,
+      "carb": 15.3,
+      "fat": 0.3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-14T01:18:49.241Z"
+}
