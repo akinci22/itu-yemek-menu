@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-29",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
@@ -15,54 +15,54 @@
     },
     {
       "id": 0,
-      "name": "Çıtır Tavuk",
+      "name": "Hindi Sote",
       "category": "main",
-      "kcal": 409,
-      "protein": 32.3,
-      "carb": 11.7,
-      "fat": 30.5,
+      "kcal": 273.9,
+      "protein": 38.6,
+      "carb": 4.7,
+      "fat": 9.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Domatesli Makarna",
+      "name": "Sebze Graten",
       "category": "side",
-      "kcal": 309.2,
-      "protein": 8.3,
-      "carb": 46.3,
-      "fat": 9.8,
+      "kcal": 262.9,
+      "protein": 7,
+      "carb": 20.1,
+      "fat": 16.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Ayran",
+      "name": "Kuskus Salatası",
       "category": "extra",
-      "kcal": 91.4,
-      "protein": 4.8,
-      "carb": 6.2,
-      "fat": 5,
+      "kcal": 305.1,
+      "protein": 7.4,
+      "carb": 38.7,
+      "fat": 12.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Çoban Salatası",
+      "name": "Kavun",
       "category": "extra",
-      "kcal": 86.2,
-      "protein": 1.4,
-      "carb": 4.4,
-      "fat": 6.4,
+      "kcal": 82,
+      "protein": 1.8,
+      "carb": 24.8,
+      "fat": 0.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Garnitür Patates Kızartması",
+      "name": "Garnitür Buğday Risotto",
       "category": "extra",
-      "kcal": 167.6,
-      "protein": 3.4,
-      "carb": 23.6,
-      "fat": 9.2,
+      "kcal": 128.1,
+      "protein": 3.6,
+      "carb": 15.8,
+      "fat": 4.6,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-15T11:57:24.873Z"
+  "capturedAt": "2026-07-15T11:57:43.987Z"
 }
