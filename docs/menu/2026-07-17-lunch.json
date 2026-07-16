@@ -35,16 +35,6 @@
     },
     {
       "id": 0,
-      "name": "Kısır",
-      "category": "extra",
-      "kcal": 186.1,
-      "protein": 4.2,
-      "carb": 30.3,
-      "fat": 3.5,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
       "name": "Havuç Lahana Salatası",
       "category": "extra",
       "kcal": 148.8,
@@ -52,7 +42,17 @@
       "carb": 8.6,
       "fat": 10.4,
       "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Karpuz",
+      "category": "extra",
+      "kcal": 60,
+      "protein": 1.2,
+      "carb": 16.6,
+      "fat": 0.4,
+      "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-16T12:00:24.196Z"
+  "capturedAt": "2026-07-16T18:00:05.443Z"
 }
