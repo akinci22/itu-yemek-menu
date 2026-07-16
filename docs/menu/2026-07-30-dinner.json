@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-30",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Mercimek Çorbası",
+      "name": "Tel Şehriyeli Havuç Çorbası",
       "category": "soup",
-      "kcal": 186.8,
-      "protein": 8.4,
-      "carb": 17.1,
-      "fat": 8.1,
+      "kcal": 125.7,
+      "protein": 1.7,
+      "carb": 10,
+      "fat": 8.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Böfstrogonof",
+      "name": "Yoğurtlu Jülyen Kebabı",
       "category": "main",
-      "kcal": 229.3,
-      "protein": 25.9,
-      "carb": 3.3,
-      "fat": 22.8,
+      "kcal": 275.8,
+      "protein": 28.1,
+      "carb": 6.5,
+      "fat": 24.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Patlıcanlı Bulgur Pilavı",
+      "name": "Bulgur Pilavı",
       "category": "side",
-      "kcal": 320.7,
-      "protein": 5.5,
+      "kcal": 317.7,
+      "protein": 5.4,
       "carb": 39.3,
       "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Çoban Salatası",
+      "name": "Akdeniz Salatası",
       "category": "extra",
-      "kcal": 86.2,
-      "protein": 1.4,
-      "carb": 4.4,
-      "fat": 6.4,
+      "kcal": 111.7,
+      "protein": 2,
+      "carb": 3.8,
+      "fat": 10,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Ayran",
+      "name": "Gazoz",
       "category": "extra",
-      "kcal": 91.4,
-      "protein": 4.8,
-      "carb": 6.2,
-      "fat": 5,
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
       "vegetarian": false
     },
     {
@@ -64,5 +64,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-16T12:00:30.294Z"
+  "capturedAt": "2026-07-16T12:00:35.139Z"
 }
