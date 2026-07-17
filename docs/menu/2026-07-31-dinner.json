@@ -1,46 +1,46 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-31",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Osmanlı Çorbası",
+      "name": "Alaca Çorbası",
       "category": "soup",
-      "kcal": 94.8,
-      "protein": 4.3,
-      "carb": 7.2,
-      "fat": 6.5,
+      "kcal": 178.2,
+      "protein": 4.9,
+      "carb": 17,
+      "fat": 8.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Etli Kuru Fasulye",
+      "name": "Etli Türlü",
       "category": "main",
-      "kcal": 287.4,
-      "protein": 20.6,
-      "carb": 23.2,
-      "fat": 14,
+      "kcal": 222.2,
+      "protein": 14.5,
+      "carb": 13.2,
+      "fat": 14.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Domatesli Pirinç Pilavı",
+      "name": "Pirinç Pilavı",
       "category": "side",
-      "kcal": 366.1,
-      "protein": 5.7,
-      "carb": 58.6,
+      "kcal": 363.8,
+      "protein": 5.6,
+      "carb": 58.3,
       "fat": 12.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Çoban Salatası",
+      "name": "Bisküvili Pasta",
       "category": "extra",
-      "kcal": 86.2,
-      "protein": 1.4,
-      "carb": 4.4,
-      "fat": 6.4,
+      "kcal": 348.3,
+      "protein": 7.3,
+      "carb": 62.3,
+      "fat": 6.6,
       "vegetarian": false
     },
     {
@@ -54,5 +54,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-17T11:51:23.418Z"
+  "capturedAt": "2026-07-17T11:51:31.428Z"
 }
