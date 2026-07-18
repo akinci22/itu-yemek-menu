@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-08-01",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Mercimek Çorbası",
+      "name": "Tutmaç Çorbası",
       "category": "soup",
-      "kcal": 186.8,
-      "protein": 8.4,
-      "carb": 17.1,
-      "fat": 8.1,
+      "kcal": 114.2,
+      "protein": 3.5,
+      "carb": 12.1,
+      "fat": 5.8,
       "vegetarian": false
     },
     {
@@ -25,11 +25,11 @@
     },
     {
       "id": 0,
-      "name": "Şehriyeli Bulgur Pilavı",
+      "name": "Mısırlı Pirinç Pilavı",
       "category": "side",
-      "kcal": 321.8,
+      "kcal": 371.1,
       "protein": 5.8,
-      "carb": 41.6,
+      "carb": 59.2,
       "fat": 12.6,
       "vegetarian": false
     },
@@ -45,14 +45,14 @@
     },
     {
       "id": 0,
-      "name": "Kadayıflı Muhallebi",
+      "name": "Kıbrıs Tatlısı",
       "category": "extra",
-      "kcal": 440,
-      "protein": 6.9,
-      "carb": 71.9,
-      "fat": 12.3,
+      "kcal": 401.8,
+      "protein": 4.3,
+      "carb": 72,
+      "fat": 10.5,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-18T11:29:06.355Z"
+  "capturedAt": "2026-07-18T11:29:27.016Z"
 }
