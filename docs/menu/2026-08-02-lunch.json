@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-02",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Mahluta Çorbası",
+      "category": "soup",
+      "kcal": 178.2,
+      "protein": 8,
+      "carb": 17.9,
+      "fat": 7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Bahçıvan Köfte",
+      "category": "main",
+      "kcal": 521,
+      "protein": 23.4,
+      "carb": 26,
+      "fat": 36.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mantarlı Makarna",
+      "category": "side",
+      "kcal": 292.2,
+      "protein": 8.1,
+      "carb": 42.4,
+      "fat": 9.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kola",
+      "category": "extra",
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Şeftali",
+      "category": "extra",
+      "kcal": 118,
+      "protein": 1.6,
+      "carb": 17.8,
+      "fat": 0.2,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-07-19T11:36:00.811Z"
+}
