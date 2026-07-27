@@ -15,12 +15,12 @@
     },
     {
       "id": 0,
-      "name": "Piliç Kapama",
+      "name": "Piliç Izgara",
       "category": "main",
-      "kcal": 359.7,
-      "protein": 38.4,
+      "kcal": 550.4,
+      "protein": 31.2,
       "carb": 0.2,
-      "fat": 22.9,
+      "fat": 47.7,
       "vegetarian": false
     },
     {
@@ -64,5 +64,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-26T17:57:00.559Z"
+  "capturedAt": "2026-07-27T13:24:48.242Z"
 }
