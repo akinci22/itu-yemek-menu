@@ -1,46 +1,46 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-07",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Mahluta Çorbası",
+      "name": "Tel Şehriyeli Havuç Çorbası",
       "category": "soup",
-      "kcal": 178.2,
-      "protein": 8,
-      "carb": 17.9,
-      "fat": 7,
+      "kcal": 125.7,
+      "protein": 1.7,
+      "carb": 10,
+      "fat": 8.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Bahçıvan Köfte",
+      "name": "Dana Haşlama",
       "category": "main",
-      "kcal": 521,
-      "protein": 23.4,
-      "carb": 26,
-      "fat": 36.8,
+      "kcal": 323.8,
+      "protein": 28.6,
+      "carb": 13.5,
+      "fat": 27.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mantarlı Makarna",
+      "name": "Bulgur Pilavı",
       "category": "side",
-      "kcal": 292.2,
-      "protein": 8.1,
-      "carb": 42.4,
-      "fat": 9.8,
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
+      "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Kola",
+      "name": "Yoğurtlu Semizotu",
       "category": "extra",
-      "kcal": 105,
-      "protein": 0,
-      "carb": 26.3,
-      "fat": 0,
+      "kcal": 93.5,
+      "protein": 5,
+      "carb": 4.9,
+      "fat": 6,
       "vegetarian": false
     },
     {
@@ -54,5 +54,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-30T12:11:32.888Z"
+  "capturedAt": "2026-07-30T12:11:37.172Z"
 }
