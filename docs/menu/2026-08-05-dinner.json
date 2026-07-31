@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-08-05",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Saray Çorbası",
+      "name": "Kremalı Brokoli Çorbası",
       "category": "soup",
-      "kcal": 144.2,
-      "protein": 6.5,
-      "carb": 14,
-      "fat": 5.5,
+      "kcal": 110.5,
+      "protein": 1.8,
+      "carb": 6.6,
+      "fat": 8.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Hindi Sote",
+      "name": "Salçalı Hindi Biftek",
       "category": "main",
-      "kcal": 273.9,
-      "protein": 38.6,
-      "carb": 4.7,
-      "fat": 9.5,
+      "kcal": 270.3,
+      "protein": 39.1,
+      "carb": 8.3,
+      "fat": 7.1,
       "vegetarian": false
     },
     {
@@ -35,22 +35,22 @@
     },
     {
       "id": 0,
-      "name": "Kuskus Salatası",
+      "name": "Yoğurtlu Yeşil Mercimek Salatası",
       "category": "extra",
-      "kcal": 305.1,
-      "protein": 7.4,
-      "carb": 38.7,
-      "fat": 12.9,
+      "kcal": 230.3,
+      "protein": 8.5,
+      "carb": 18.2,
+      "fat": 14.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Kavun",
+      "name": "Makarna Salatası",
       "category": "extra",
-      "kcal": 82,
-      "protein": 1.8,
-      "carb": 24.8,
-      "fat": 0.2,
+      "kcal": 221.2,
+      "protein": 6.8,
+      "carb": 35.2,
+      "fat": 5.7,
       "vegetarian": false
     },
     {
@@ -64,5 +64,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-07-31T12:26:00.444Z"
+  "capturedAt": "2026-07-31T12:26:06.979Z"
 }
