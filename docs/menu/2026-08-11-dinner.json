@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-08-11",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
@@ -15,44 +15,44 @@
     },
     {
       "id": 0,
-      "name": "Kıymalı Biber Dolması",
+      "name": "Patlıcan Musakka",
       "category": "main",
-      "kcal": 299.1,
-      "protein": 11.5,
-      "carb": 37.1,
-      "fat": 13.3,
+      "kcal": 217.1,
+      "protein": 9.9,
+      "carb": 7,
+      "fat": 17.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Fırın Makarna",
+      "name": "Mısırlı Pirinç Pilavı",
       "category": "side",
-      "kcal": 413.2,
-      "protein": 12.2,
-      "carb": 41.8,
-      "fat": 24,
+      "kcal": 371.1,
+      "protein": 5.8,
+      "carb": 59.2,
+      "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Yoğurt",
+      "name": "Cacık",
       "category": "extra",
-      "kcal": 88.5,
-      "protein": 5.9,
-      "carb": 6.6,
-      "fat": 5.7,
+      "kcal": 74.5,
+      "protein": 4.2,
+      "carb": 5.2,
+      "fat": 4.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Hindistan Cevizli Muhallebi",
+      "name": "Revani",
       "category": "extra",
-      "kcal": 276,
-      "protein": 4.8,
-      "carb": 41.8,
-      "fat": 8.3,
+      "kcal": 328.9,
+      "protein": 4,
+      "carb": 74.5,
+      "fat": 3,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-03T13:23:59.381Z"
+  "capturedAt": "2026-08-03T13:24:12.975Z"
 }

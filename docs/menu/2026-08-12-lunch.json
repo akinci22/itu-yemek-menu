@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-12",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
@@ -15,44 +15,44 @@
     },
     {
       "id": 0,
-      "name": "Bahçıvan Köfte",
+      "name": "Etli Patates",
       "category": "main",
-      "kcal": 521,
-      "protein": 23.4,
-      "carb": 26,
-      "fat": 36.8,
+      "kcal": 281,
+      "protein": 18.2,
+      "carb": 22.7,
+      "fat": 16.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mantarlı Makarna",
+      "name": "Yeşil Mercimekli Bulgur Pilavı",
       "category": "side",
-      "kcal": 292.2,
-      "protein": 8.1,
-      "carb": 42.4,
-      "fat": 9.8,
+      "kcal": 316.9,
+      "protein": 7.3,
+      "carb": 38.4,
+      "fat": 12.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Kola",
+      "name": "Trileçe",
       "category": "extra",
-      "kcal": 105,
-      "protein": 0,
-      "carb": 26.3,
-      "fat": 0,
+      "kcal": 244.9,
+      "protein": 5.3,
+      "carb": 28.7,
+      "fat": 7.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Şeftali",
+      "name": "Mısırlı Yoğurt",
       "category": "extra",
-      "kcal": 118,
-      "protein": 1.6,
-      "carb": 17.8,
-      "fat": 0.2,
+      "kcal": 113.1,
+      "protein": 6.1,
+      "carb": 8.4,
+      "fat": 5.9,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-03T13:24:03.837Z"
+  "capturedAt": "2026-08-03T13:24:13.411Z"
 }

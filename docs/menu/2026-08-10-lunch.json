@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-08-10",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Kremalı Mantar Çorbası",
+      "name": "Mısırlı Ayran Çorbası",
       "category": "soup",
-      "kcal": 131.2,
-      "protein": 2,
-      "carb": 7.7,
-      "fat": 10.2,
+      "kcal": 174,
+      "protein": 7.1,
+      "carb": 16.1,
+      "fat": 9.4,
       "vegetarian": false
     },
     {
@@ -25,34 +25,34 @@
     },
     {
       "id": 0,
-      "name": "Şehriyeli Pirinç Pilavı",
+      "name": "Şehriyeli Bulgur Pilavı",
       "category": "side",
-      "kcal": 398.3,
-      "protein": 7.1,
-      "carb": 65,
+      "kcal": 321.8,
+      "protein": 5.8,
+      "carb": 41.6,
       "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Karpuz",
+      "name": "Şekerpare",
       "category": "extra",
-      "kcal": 60,
-      "protein": 1.2,
-      "carb": 16.6,
-      "fat": 0.4,
+      "kcal": 417.6,
+      "protein": 2.5,
+      "carb": 82,
+      "fat": 9.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Yoğurtlu Semizotu",
+      "name": "Çoban Salatası",
       "category": "extra",
-      "kcal": 93.5,
-      "protein": 5,
-      "carb": 4.9,
-      "fat": 6,
+      "kcal": 86.2,
+      "protein": 1.4,
+      "carb": 4.4,
+      "fat": 6.4,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-03T13:24:01.348Z"
+  "capturedAt": "2026-08-03T13:24:11.051Z"
 }
