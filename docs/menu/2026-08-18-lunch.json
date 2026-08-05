@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-18",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Osmanlı Çorbası",
+      "name": "Düğün Çorbası",
       "category": "soup",
-      "kcal": 94.8,
-      "protein": 4.3,
-      "carb": 7.2,
-      "fat": 6.5,
+      "kcal": 113.6,
+      "protein": 4.7,
+      "carb": 8.6,
+      "fat": 7.9,
       "vegetarian": false
     },
     {
@@ -35,16 +35,6 @@
     },
     {
       "id": 0,
-      "name": "Fındıklı Krem Şokola",
-      "category": "extra",
-      "kcal": 301,
-      "protein": 5.5,
-      "carb": 51.7,
-      "fat": 6.8,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
       "name": "Cacık",
       "category": "extra",
       "kcal": 74.5,
@@ -52,7 +42,17 @@
       "carb": 5.2,
       "fat": 4.9,
       "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Üzüm",
+      "category": "extra",
+      "kcal": 152,
+      "protein": 1.4,
+      "carb": 30.4,
+      "fat": 0.6,
+      "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-05T12:22:51.736Z"
+  "capturedAt": "2026-08-05T12:23:04.233Z"
 }
