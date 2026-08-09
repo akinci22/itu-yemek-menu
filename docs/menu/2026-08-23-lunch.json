@@ -1,46 +1,46 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-23",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Osmanlı Çorbası",
+      "name": "Alaca Çorbası",
       "category": "soup",
-      "kcal": 94.8,
-      "protein": 4.3,
-      "carb": 7.2,
-      "fat": 6.5,
+      "kcal": 178.2,
+      "protein": 4.9,
+      "carb": 17,
+      "fat": 8.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Etli Kuru Fasulye",
+      "name": "Etli Bezelye",
       "category": "main",
-      "kcal": 287.4,
-      "protein": 20.6,
-      "carb": 23.2,
-      "fat": 14,
+      "kcal": 221.6,
+      "protein": 17.9,
+      "carb": 20.8,
+      "fat": 11.8,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Melek Pilavı",
+      "name": "Mısırlı Pirinç Pilavı",
       "category": "side",
-      "kcal": 376.4,
-      "protein": 6.2,
-      "carb": 60.3,
-      "fat": 12.5,
+      "kcal": 371.1,
+      "protein": 5.8,
+      "carb": 59.2,
+      "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Fındıklı Krem Şokola",
+      "name": "Mozaik Pasta",
       "category": "extra",
-      "kcal": 301,
-      "protein": 5.5,
-      "carb": 51.7,
-      "fat": 6.8,
+      "kcal": 313.5,
+      "protein": 6.2,
+      "carb": 56.2,
+      "fat": 6.2,
       "vegetarian": false
     },
     {
@@ -54,5 +54,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-09T11:01:26.523Z"
+  "capturedAt": "2026-08-09T11:01:38.965Z"
 }
