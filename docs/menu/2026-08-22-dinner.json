@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-22",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Osmanlı Çorbası",
+      "category": "soup",
+      "kcal": 94.8,
+      "protein": 4.3,
+      "carb": 7.2,
+      "fat": 6.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kıymalı Yeşil Mercimek",
+      "category": "main",
+      "kcal": 300.4,
+      "protein": 20.3,
+      "carb": 32.3,
+      "fat": 12,
+      "vegetarian": true
+    },
+    {
+      "id": 0,
+      "name": "Şehriyeli Pirinç Pilavı",
+      "category": "side",
+      "kcal": 398.3,
+      "protein": 7.1,
+      "carb": 65,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sütlü İrmik Tatlısı",
+      "category": "extra",
+      "kcal": 310.1,
+      "protein": 6.7,
+      "carb": 53.1,
+      "fat": 5.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Haydari",
+      "category": "extra",
+      "kcal": 156.5,
+      "protein": 6.4,
+      "carb": 6,
+      "fat": 8,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-08-11T11:13:31.625Z"
+}
