@@ -1,36 +1,36 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-25",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Osmanlı Çorbası",
+      "name": "Ezogelin Çorbası",
       "category": "soup",
-      "kcal": 94.8,
-      "protein": 4.3,
-      "carb": 7.2,
-      "fat": 6.5,
+      "kcal": 197.1,
+      "protein": 7.4,
+      "carb": 19.2,
+      "fat": 8.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Etli Kuru Fasulye",
+      "name": "Yoğurtlu Etli Mantı",
       "category": "main",
-      "kcal": 287.4,
-      "protein": 20.6,
-      "carb": 23.2,
-      "fat": 14,
+      "kcal": 334.2,
+      "protein": 15.5,
+      "carb": 36,
+      "fat": 14.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Melek Pilavı",
+      "name": "Soslu Karışık Kızartma",
       "category": "side",
-      "kcal": 376.4,
-      "protein": 6.2,
-      "carb": 60.3,
-      "fat": 12.5,
+      "kcal": 192.6,
+      "protein": 3.5,
+      "carb": 11.5,
+      "fat": 13.1,
       "vegetarian": false
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "id": 0,
-      "name": "Cacık",
+      "name": "Gazoz",
       "category": "extra",
-      "kcal": 74.5,
-      "protein": 4.2,
-      "carb": 5.2,
-      "fat": 4.9,
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-13T11:20:51.645Z"
+  "capturedAt": "2026-08-13T11:21:07.889Z"
 }
