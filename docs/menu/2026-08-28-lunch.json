@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-28",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
@@ -15,54 +15,54 @@
     },
     {
       "id": 0,
-      "name": "Fırın Piliç",
+      "name": "Piliç Kavurma",
       "category": "main",
-      "kcal": 470.6,
-      "protein": 36.3,
-      "carb": 0.2,
-      "fat": 27.5,
+      "kcal": 439.5,
+      "protein": 26.6,
+      "carb": 0.8,
+      "fat": 36.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mantarlı Makarna",
+      "name": "Zeytinyağlı Taze Fasulye",
       "category": "side",
-      "kcal": 292.2,
-      "protein": 8.1,
-      "carb": 42.4,
-      "fat": 9.8,
+      "kcal": 162.9,
+      "protein": 3.3,
+      "carb": 8.2,
+      "fat": 12.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Meyve Suyu",
+      "name": "Patates Salatası",
       "category": "extra",
-      "kcal": 239,
-      "protein": 1.2,
-      "carb": 57,
-      "fat": 0.2,
+      "kcal": 193.1,
+      "protein": 2.9,
+      "carb": 18.5,
+      "fat": 10.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Çoban Salatası",
+      "name": "Maş Fasulyesi Salatası",
       "category": "extra",
-      "kcal": 86.2,
-      "protein": 1.4,
-      "carb": 4.4,
-      "fat": 6.4,
+      "kcal": 222.4,
+      "protein": 11.4,
+      "carb": 18.1,
+      "fat": 9.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Garnitür Elma Dilim Patates Kızartması",
+      "name": "Garnitür Arpa Şehriye Pilavı",
       "category": "extra",
-      "kcal": 162.6,
-      "protein": 3.1,
-      "carb": 19.5,
-      "fat": 7,
+      "kcal": 200.1,
+      "protein": 5.6,
+      "carb": 31.7,
+      "fat": 5.5,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-14T11:13:16.967Z"
+  "capturedAt": "2026-08-14T11:13:26.329Z"
 }

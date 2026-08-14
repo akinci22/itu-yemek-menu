@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-26",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Saray Çorbası",
+      "category": "soup",
+      "kcal": 144.2,
+      "protein": 6.5,
+      "carb": 14,
+      "fat": 5.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Piliç Kapama",
+      "category": "main",
+      "kcal": 359.7,
+      "protein": 38.4,
+      "carb": 0.2,
+      "fat": 22.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fasulye Pilaki",
+      "category": "side",
+      "kcal": 231.6,
+      "protein": 9.2,
+      "carb": 19.9,
+      "fat": 10.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Karpuz",
+      "category": "extra",
+      "kcal": 60,
+      "protein": 1.2,
+      "carb": 16.6,
+      "fat": 0.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Ayran",
+      "category": "extra",
+      "kcal": 91.4,
+      "protein": 4.8,
+      "carb": 6.2,
+      "fat": 5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Sebzeli Arpa Şehriye",
+      "category": "extra",
+      "kcal": 204.1,
+      "protein": 5.8,
+      "carb": 32.3,
+      "fat": 5.6,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-08-14T11:13:24.960Z"
+}

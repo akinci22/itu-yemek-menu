@@ -5,64 +5,54 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Kremalı Domates  Çorbası",
+      "name": "Mahluta Çorbası",
       "category": "soup",
-      "kcal": 163.3,
-      "protein": 1.6,
-      "carb": 8.8,
-      "fat": 12.3,
+      "kcal": 178.2,
+      "protein": 8,
+      "carb": 17.9,
+      "fat": 7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Izgara Köfte",
+      "name": "Kıymalı Kabak Dolması",
       "category": "main",
-      "kcal": 309.8,
-      "protein": 20.9,
-      "carb": 14.3,
-      "fat": 21,
+      "kcal": 206.4,
+      "protein": 10.3,
+      "carb": 17.8,
+      "fat": 12.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Peynirli Makarna",
+      "name": "Fırın Makarna",
       "category": "side",
-      "kcal": 330.6,
-      "protein": 9.5,
-      "carb": 46.4,
-      "fat": 13.8,
+      "kcal": 413.2,
+      "protein": 12.2,
+      "carb": 41.8,
+      "fat": 24,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Kavun",
+      "name": "Yoğurt",
       "category": "extra",
-      "kcal": 82,
-      "protein": 1.8,
-      "carb": 24.8,
-      "fat": 0.2,
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Pembe Sultan",
+      "name": "Krem Şokola",
       "category": "extra",
-      "kcal": 187.9,
-      "protein": 4.5,
-      "carb": 6.3,
-      "fat": 13.6,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
-      "name": "Garnitür Sebzeli Püre",
-      "category": "extra",
-      "kcal": 115,
-      "protein": 2.8,
-      "carb": 15.5,
-      "fat": 3.2,
+      "kcal": 268.7,
+      "protein": 4.6,
+      "carb": 51.4,
+      "fat": 3.7,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-13T17:52:29.620Z"
+  "capturedAt": "2026-08-14T11:13:20.830Z"
 }
