@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-30",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Yeşil Mercimekli Ayran Çorbası",
+      "category": "soup",
+      "kcal": 176.4,
+      "protein": 8.6,
+      "carb": 16.7,
+      "fat": 9.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sebzeli  Piliç Kebap",
+      "category": "main",
+      "kcal": 390,
+      "protein": 32.5,
+      "carb": 12.2,
+      "fat": 26.9,
+      "vegetarian": true
+    },
+    {
+      "id": 0,
+      "name": "Kremalı Mantarlı Fesleğenli Makarna",
+      "category": "side",
+      "kcal": 292,
+      "protein": 8.6,
+      "carb": 43.1,
+      "fat": 9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Meyve Suyu",
+      "category": "extra",
+      "kcal": 239,
+      "protein": 1.2,
+      "carb": 57,
+      "fat": 0.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurtlu Semizotu",
+      "category": "extra",
+      "kcal": 93.5,
+      "protein": 5,
+      "carb": 4.9,
+      "fat": 6,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-08-16T10:48:12.958Z"
+}
