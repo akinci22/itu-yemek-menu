@@ -35,16 +35,6 @@
     },
     {
       "id": 0,
-      "name": "Fındıklı Krem Şokola",
-      "category": "extra",
-      "kcal": 301,
-      "protein": 5.5,
-      "carb": 51.7,
-      "fat": 6.8,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
       "name": "Gazoz",
       "category": "extra",
       "kcal": 105,
@@ -52,7 +42,17 @@
       "carb": 26.3,
       "fat": 0,
       "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Cevizli Baklava",
+      "category": "extra",
+      "kcal": 404.9,
+      "protein": 4.6,
+      "carb": 57.9,
+      "fat": 18.8,
+      "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-16T17:13:47.953Z"
+  "capturedAt": "2026-08-17T10:56:31.504Z"
 }

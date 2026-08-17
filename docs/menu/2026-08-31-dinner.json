@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-31",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Piliç Kapama",
+      "category": "main",
+      "kcal": 359.7,
+      "protein": 38.4,
+      "carb": 0.2,
+      "fat": 22.9,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-08-17T10:56:37.992Z"
+}
