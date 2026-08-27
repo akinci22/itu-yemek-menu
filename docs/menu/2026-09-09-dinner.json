@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-09",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Saray Çorbası",
+      "category": "soup",
+      "kcal": 144.2,
+      "protein": 6.5,
+      "carb": 14,
+      "fat": 5.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sosyete Mantısı",
+      "category": "main",
+      "kcal": 445.2,
+      "protein": 22.4,
+      "carb": 61.6,
+      "fat": 19.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Zeytinyağlı Taze Fasulye",
+      "category": "side",
+      "kcal": 162.9,
+      "protein": 3.3,
+      "carb": 8.2,
+      "fat": 12.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Nohut Salatası",
+      "category": "extra",
+      "kcal": 166.4,
+      "protein": 8.7,
+      "carb": 21.1,
+      "fat": 2.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fındıklı Krem Şokola",
+      "category": "extra",
+      "kcal": 301,
+      "protein": 5.5,
+      "carb": 51.7,
+      "fat": 6.8,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-08-27T20:39:53.141Z"
+}

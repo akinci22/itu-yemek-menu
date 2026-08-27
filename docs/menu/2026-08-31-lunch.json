@@ -1,46 +1,46 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-31",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Sebzeli Mantar Çorbası",
+      "name": "Kremalı Brokoli Çorbası",
       "category": "soup",
-      "kcal": 82.6,
-      "protein": 2,
+      "kcal": 110.5,
+      "protein": 1.8,
       "carb": 6.6,
-      "fat": 5.2,
+      "fat": 8.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Ali Nazik",
+      "name": "Etli Nohut",
       "category": "main",
-      "kcal": 285.8,
-      "protein": 27.2,
-      "carb": 4.2,
-      "fat": 25.3,
+      "kcal": 304.6,
+      "protein": 20,
+      "carb": 23.7,
+      "fat": 13.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Şehriyeli Bulgur Pilavı",
+      "name": "Şehriyeli Pirinç Pilavı",
       "category": "side",
-      "kcal": 321.8,
-      "protein": 5.8,
-      "carb": 41.6,
+      "kcal": 398.3,
+      "protein": 7.1,
+      "carb": 65,
       "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Şalgam Suyu",
+      "name": "Cacık",
       "category": "extra",
-      "kcal": 15,
-      "protein": 0,
-      "carb": 3.5,
-      "fat": 0,
+      "kcal": 74.5,
+      "protein": 4.2,
+      "carb": 5.2,
+      "fat": 4.9,
       "vegetarian": false
     },
     {
@@ -54,5 +54,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-27T20:39:44.224Z"
+  "capturedAt": "2026-08-27T20:39:46.910Z"
 }

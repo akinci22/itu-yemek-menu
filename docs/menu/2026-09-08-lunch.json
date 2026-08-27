@@ -1,36 +1,36 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-09-08",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Yayla Çorbası",
+      "name": "Sebzeli Mantar Çorbası",
       "category": "soup",
-      "kcal": 121,
-      "protein": 2.4,
-      "carb": 12,
-      "fat": 7.3,
+      "kcal": 82.6,
+      "protein": 2,
+      "carb": 6.6,
+      "fat": 5.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Hasanpaşa Köfte",
+      "name": "Kıymalı Yeşil Mercimek",
       "category": "main",
-      "kcal": 446.7,
-      "protein": 24.1,
-      "carb": 23.7,
-      "fat": 30.2,
-      "vegetarian": false
+      "kcal": 300.4,
+      "protein": 20.3,
+      "carb": 32.3,
+      "fat": 12,
+      "vegetarian": true
     },
     {
       "id": 0,
-      "name": "Sebzeli Makarna",
+      "name": "Pirinç Pilavı",
       "category": "side",
-      "kcal": 297,
-      "protein": 8.1,
-      "carb": 43.9,
-      "fat": 9.8,
+      "kcal": 363.8,
+      "protein": 5.6,
+      "carb": 58.3,
+      "fat": 12.5,
       "vegetarian": false
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "id": 0,
-      "name": "Ayran",
+      "name": "Havuç Tarator",
       "category": "extra",
-      "kcal": 91.4,
-      "protein": 4.8,
-      "carb": 6.2,
-      "fat": 5,
+      "kcal": 193.6,
+      "protein": 4.9,
+      "carb": 12.6,
+      "fat": 14,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-27T20:39:45.651Z"
+  "capturedAt": "2026-08-27T20:39:52.130Z"
 }

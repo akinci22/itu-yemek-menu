@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-08",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Ezogelin Çorbası",
+      "name": "Tel Şehriyeli Havuç Çorbası",
       "category": "soup",
-      "kcal": 197.1,
-      "protein": 7.4,
-      "carb": 19.2,
-      "fat": 8.5,
+      "kcal": 125.7,
+      "protein": 1.7,
+      "carb": 10,
+      "fat": 8.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Ekşili Köfte",
+      "name": "Hünkar Beğendi",
       "category": "main",
-      "kcal": 369.3,
-      "protein": 21.7,
-      "carb": 21.2,
-      "fat": 23.3,
+      "kcal": 401.3,
+      "protein": 30.4,
+      "carb": 7.5,
+      "fat": 37.5,
       "vegetarian": false
     },
     {
@@ -35,24 +35,24 @@
     },
     {
       "id": 0,
-      "name": "Erik",
+      "name": "Karnabahar-brokoli Salatası",
       "category": "extra",
-      "kcal": 87,
-      "protein": 0.9,
-      "carb": 15.3,
-      "fat": 0.3,
+      "kcal": 86.9,
+      "protein": 3.1,
+      "carb": 4.4,
+      "fat": 5.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Ayran",
+      "name": "Çoban Salatası",
       "category": "extra",
-      "kcal": 91.4,
-      "protein": 4.8,
-      "carb": 6.2,
-      "fat": 5,
+      "kcal": 86.2,
+      "protein": 1.4,
+      "carb": 4.4,
+      "fat": 6.4,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-27T20:39:47.236Z"
+  "capturedAt": "2026-08-27T20:39:52.445Z"
 }

@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-09-01",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Mısırlı Ayran Çorbası",
+      "name": "Mercimek Çorbası",
       "category": "soup",
-      "kcal": 174,
-      "protein": 7.1,
-      "carb": 16.1,
-      "fat": 9.4,
+      "kcal": 186.8,
+      "protein": 8.4,
+      "carb": 17.1,
+      "fat": 8.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Piliç Kavurma",
+      "name": "Çoban Kavurma",
       "category": "main",
-      "kcal": 439.5,
-      "protein": 26.6,
-      "carb": 0.8,
-      "fat": 36.6,
+      "kcal": 248.4,
+      "protein": 26.8,
+      "carb": 1.6,
+      "fat": 26,
       "vegetarian": false
     },
     {
@@ -35,34 +35,34 @@
     },
     {
       "id": 0,
-      "name": "Patates Salatası",
+      "name": "Yoğurtlu Kuskus Salatası",
       "category": "extra",
-      "kcal": 193.1,
-      "protein": 2.9,
-      "carb": 18.5,
-      "fat": 10.2,
+      "kcal": 310.1,
+      "protein": 6.5,
+      "carb": 31.5,
+      "fat": 17.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Maş Fasulyesi Salatası",
+      "name": "Kavun",
       "category": "extra",
-      "kcal": 222.4,
-      "protein": 11.4,
-      "carb": 18.1,
-      "fat": 9.1,
+      "kcal": 82,
+      "protein": 1.8,
+      "carb": 24.8,
+      "fat": 0.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Garnitür Arpa Şehriye Pilavı",
+      "name": "Garnitür Pirinç Pilavı",
       "category": "extra",
-      "kcal": 200.1,
-      "protein": 5.6,
-      "carb": 31.7,
-      "fat": 5.5,
+      "kcal": 224.6,
+      "protein": 3.7,
+      "carb": 38.9,
+      "fat": 6.3,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-27T20:39:44.917Z"
+  "capturedAt": "2026-08-27T20:39:47.559Z"
 }
