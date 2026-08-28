@@ -1,46 +1,36 @@
 {
-  "date": "2026-09-03",
-  "meal": "lunch",
-  "label": "Öğle Yemeği Menüsü",
+  "date": "2026-09-11",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Saray Çorbası",
+      "name": "Kremalı Brokoli Çorbası",
       "category": "soup",
-      "kcal": 144.2,
-      "protein": 6.5,
-      "carb": 14,
-      "fat": 5.5,
+      "kcal": 110.5,
+      "protein": 1.8,
+      "carb": 6.6,
+      "fat": 8.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Hamburger Köfte",
+      "name": "Rosto Köfte",
       "category": "main",
-      "kcal": 353.8,
+      "kcal": 354.8,
       "protein": 21.4,
-      "carb": 17.1,
+      "carb": 17.2,
       "fat": 24.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Sebzeli Kuskus",
+      "name": "Sebzeli Makarna",
       "category": "side",
-      "kcal": 286.6,
-      "protein": 7.7,
-      "carb": 43,
-      "fat": 8.8,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
-      "name": "Çoban Salatası",
-      "category": "extra",
-      "kcal": 86.2,
-      "protein": 1.4,
-      "carb": 4.4,
-      "fat": 6.4,
+      "kcal": 297,
+      "protein": 8.1,
+      "carb": 43.9,
+      "fat": 9.8,
       "vegetarian": false
     },
     {
@@ -55,6 +45,16 @@
     },
     {
       "id": 0,
+      "name": "Pembe Sultan",
+      "category": "extra",
+      "kcal": 187.9,
+      "protein": 4.5,
+      "carb": 6.3,
+      "fat": 13.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
       "name": "Garnitür Patates Püresi",
       "category": "extra",
       "kcal": 86.4,
@@ -64,5 +64,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-28T01:14:04.927Z"
+  "capturedAt": "2026-08-28T01:14:10.826Z"
 }
