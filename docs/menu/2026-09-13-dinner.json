@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-09-13",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Nohutlu Ayran  Çorbası",
+      "name": "Kremalı Domates  Çorbası",
       "category": "soup",
-      "kcal": 179.9,
-      "protein": 8.2,
-      "carb": 15.6,
-      "fat": 9.5,
+      "kcal": 163.3,
+      "protein": 1.6,
+      "carb": 8.8,
+      "fat": 12.3,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "İzmir Köfte",
+      "name": "Piliç Pirzola",
       "category": "main",
-      "kcal": 345.8,
-      "protein": 21.4,
-      "carb": 17.2,
-      "fat": 23.1,
+      "kcal": 343.4,
+      "protein": 25.4,
+      "carb": 0.2,
+      "fat": 20.8,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mantarlı Makarna",
+      "name": "Sebzeli Arpa Şehriye Pilavı",
       "category": "side",
-      "kcal": 292.2,
-      "protein": 8.1,
-      "carb": 42.4,
-      "fat": 9.8,
+      "kcal": 302.2,
+      "protein": 7.7,
+      "carb": 43,
+      "fat": 10.8,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Roka Salatası",
+      "name": "Akdeniz Salatası",
       "category": "extra",
-      "kcal": 78.4,
-      "protein": 2.2,
-      "carb": 2.1,
-      "fat": 6.6,
+      "kcal": 111.7,
+      "protein": 2,
+      "carb": 3.8,
+      "fat": 10,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Karnabahar-brokoli Salatası",
+      "name": "Limonata",
       "category": "extra",
-      "kcal": 86.9,
-      "protein": 3.1,
-      "carb": 4.4,
-      "fat": 5.4,
+      "kcal": 30,
+      "protein": 0,
+      "carb": 8.1,
+      "fat": 0,
       "vegetarian": false
     },
     {
@@ -64,5 +64,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-30T14:54:48.692Z"
+  "capturedAt": "2026-08-30T14:55:04.406Z"
 }

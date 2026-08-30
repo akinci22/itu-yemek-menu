@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-09-13",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
@@ -25,34 +25,34 @@
     },
     {
       "id": 0,
-      "name": "Mısırlı Pirinç Pilavı",
+      "name": "Şehriyeli Pirinç Pilavı",
       "category": "side",
-      "kcal": 371.1,
-      "protein": 5.8,
-      "carb": 59.2,
+      "kcal": 398.3,
+      "protein": 7.1,
+      "carb": 65,
       "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mozaik Pasta",
+      "name": "Kıbrıs Tatlısı",
       "category": "extra",
-      "kcal": 313.5,
-      "protein": 6.2,
-      "carb": 56.2,
-      "fat": 6.2,
+      "kcal": 401.8,
+      "protein": 4.3,
+      "carb": 72,
+      "fat": 10.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Cacık",
+      "name": "Haydari",
       "category": "extra",
-      "kcal": 74.5,
-      "protein": 4.2,
-      "carb": 5.2,
-      "fat": 4.9,
+      "kcal": 156.5,
+      "protein": 6.4,
+      "carb": 6,
+      "fat": 8,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-30T14:54:46.881Z"
+  "capturedAt": "2026-08-30T14:55:04.056Z"
 }
