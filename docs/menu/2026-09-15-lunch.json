@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-09-15",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
@@ -15,44 +15,44 @@
     },
     {
       "id": 0,
-      "name": "Patlıcan Musakka",
+      "name": "Etli Taze Fasulye",
       "category": "main",
-      "kcal": 217.1,
-      "protein": 9.9,
-      "carb": 7,
-      "fat": 17.4,
+      "kcal": 184.8,
+      "protein": 12.3,
+      "carb": 9.5,
+      "fat": 13.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mısırlı Pirinç Pilavı",
+      "name": "Yeşil Mercimekli Bulgur Pilavı",
       "category": "side",
-      "kcal": 371.1,
-      "protein": 5.8,
-      "carb": 59.2,
-      "fat": 12.6,
+      "kcal": 316.9,
+      "protein": 7.3,
+      "carb": 38.4,
+      "fat": 12.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Haydari",
+      "name": "Kadayıflı Muhallebi",
       "category": "extra",
-      "kcal": 156.5,
-      "protein": 6.4,
-      "carb": 6,
-      "fat": 8,
+      "kcal": 440,
+      "protein": 6.9,
+      "carb": 71.9,
+      "fat": 12.3,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Fındıklı Krem Şokola",
+      "name": "Mısırlı Yoğurt",
       "category": "extra",
-      "kcal": 301,
-      "protein": 5.5,
-      "carb": 51.7,
-      "fat": 6.8,
+      "kcal": 113.1,
+      "protein": 6.1,
+      "carb": 8.4,
+      "fat": 5.9,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-31T21:42:24.726Z"
+  "capturedAt": "2026-08-31T21:42:38.437Z"
 }

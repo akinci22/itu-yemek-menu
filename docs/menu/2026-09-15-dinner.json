@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-15",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
@@ -15,54 +15,54 @@
     },
     {
       "id": 0,
-      "name": "Hindi Sote",
+      "name": "İzmir Köfte",
       "category": "main",
-      "kcal": 273.9,
-      "protein": 38.6,
-      "carb": 4.7,
-      "fat": 9.5,
+      "kcal": 345.8,
+      "protein": 21.4,
+      "carb": 17.2,
+      "fat": 23.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Soslu Makarna",
+      "name": "Peynirli Makarna",
       "category": "side",
-      "kcal": 303.8,
-      "protein": 8,
-      "carb": 43.7,
-      "fat": 9.8,
+      "kcal": 330.6,
+      "protein": 9.5,
+      "carb": 46.4,
+      "fat": 13.8,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mevsim Salatası",
+      "name": "Havuç Lahana Salatası",
       "category": "extra",
-      "kcal": 87,
-      "protein": 1.6,
-      "carb": 6.1,
-      "fat": 5.3,
+      "kcal": 148.8,
+      "protein": 1.9,
+      "carb": 8.6,
+      "fat": 10.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Şeftali",
+      "name": "Meyve Suyu",
       "category": "extra",
-      "kcal": 118,
-      "protein": 1.6,
-      "carb": 17.8,
+      "kcal": 239,
+      "protein": 1.2,
+      "carb": 57,
       "fat": 0.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Garnitür Küp Patates Kızartması",
+      "name": "Garnitür Elma Dilim Patates Kızartması",
       "category": "extra",
-      "kcal": 202,
-      "protein": 3.5,
-      "carb": 23,
-      "fat": 9.9,
+      "kcal": 162.6,
+      "protein": 3.1,
+      "carb": 19.5,
+      "fat": 7,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-08-31T21:42:29.651Z"
+  "capturedAt": "2026-08-31T21:42:38.759Z"
 }
