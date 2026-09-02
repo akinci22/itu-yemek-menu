@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-05",
-  "meal": "dinner",
-  "label": "Akşam Yemeği Menüsü",
+  "date": "2026-09-16",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
@@ -15,22 +15,22 @@
     },
     {
       "id": 0,
-      "name": "Harput Köfte",
+      "name": "Et Döner",
       "category": "main",
-      "kcal": 411.2,
-      "protein": 23.8,
-      "carb": 20.5,
-      "fat": 26,
+      "kcal": 310.7,
+      "protein": 21.6,
+      "carb": 3.9,
+      "fat": 19.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Şehriyeli Pirinç Pilavı",
+      "name": "Pirinç Pilavı",
       "category": "side",
-      "kcal": 398.3,
-      "protein": 7.1,
-      "carb": 65,
-      "fat": 12.6,
+      "kcal": 363.8,
+      "protein": 5.6,
+      "carb": 58.3,
+      "fat": 12.5,
       "vegetarian": false
     },
     {
@@ -45,14 +45,24 @@
     },
     {
       "id": 0,
-      "name": "Kola",
+      "name": "Erik",
       "category": "extra",
-      "kcal": 105,
-      "protein": 0,
-      "carb": 26.3,
-      "fat": 0,
+      "kcal": 87,
+      "protein": 0.9,
+      "carb": 15.3,
+      "fat": 0.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Kızartması",
+      "category": "extra",
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-02T14:36:53.311Z"
+  "capturedAt": "2026-09-02T14:37:01.184Z"
 }
