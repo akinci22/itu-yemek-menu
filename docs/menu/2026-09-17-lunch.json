@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-17",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
@@ -15,32 +15,22 @@
     },
     {
       "id": 0,
-      "name": "Hamburger Köfte",
+      "name": "Tavuk Tantuni",
       "category": "main",
-      "kcal": 353.8,
-      "protein": 21.4,
-      "carb": 17.1,
-      "fat": 24.1,
+      "kcal": 518.3,
+      "protein": 35.4,
+      "carb": 31.2,
+      "fat": 30.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Sebzeli Kuskus",
+      "name": "Mevsim Salatası",
       "category": "side",
-      "kcal": 286.6,
-      "protein": 7.7,
-      "carb": 43,
-      "fat": 8.8,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
-      "name": "Çoban Salatası",
-      "category": "extra",
-      "kcal": 86.2,
-      "protein": 1.4,
+      "kcal": 75.5,
+      "protein": 1.2,
       "carb": 4.4,
-      "fat": 6.4,
+      "fat": 5.2,
       "vegetarian": false
     },
     {
@@ -55,14 +45,24 @@
     },
     {
       "id": 0,
-      "name": "Garnitür Patates Püresi",
+      "name": "Rus Salatası",
       "category": "extra",
-      "kcal": 86.4,
-      "protein": 2.2,
-      "carb": 13.8,
-      "fat": 1,
+      "kcal": 203,
+      "protein": 5.1,
+      "carb": 13.5,
+      "fat": 15.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Kızartması",
+      "category": "extra",
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-03T14:40:27.636Z"
+  "capturedAt": "2026-09-03T14:40:38.157Z"
 }

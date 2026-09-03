@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-17",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Ezogelin Çorbası",
+      "name": "Osmanlı Çorbası",
       "category": "soup",
-      "kcal": 197.1,
-      "protein": 7.4,
-      "carb": 19.2,
-      "fat": 8.5,
+      "kcal": 94.8,
+      "protein": 4.3,
+      "carb": 7.2,
+      "fat": 6.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Ekşili Köfte",
+      "name": "Etli Nohut",
       "category": "main",
-      "kcal": 369.3,
-      "protein": 21.7,
-      "carb": 21.2,
-      "fat": 23.3,
+      "kcal": 304.6,
+      "protein": 20,
+      "carb": 23.7,
+      "fat": 13.1,
       "vegetarian": false
     },
     {
@@ -35,24 +35,24 @@
     },
     {
       "id": 0,
-      "name": "Erik",
+      "name": "Haydari",
       "category": "extra",
-      "kcal": 87,
-      "protein": 0.9,
-      "carb": 15.3,
-      "fat": 0.3,
+      "kcal": 156.5,
+      "protein": 6.4,
+      "carb": 6,
+      "fat": 8,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Ayran",
+      "name": "Hindistan Cevizli Muhallebi",
       "category": "extra",
-      "kcal": 91.4,
+      "kcal": 276,
       "protein": 4.8,
-      "carb": 6.2,
-      "fat": 5,
+      "carb": 41.8,
+      "fat": 8.3,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-03T14:40:25.679Z"
+  "capturedAt": "2026-09-03T14:40:38.538Z"
 }
