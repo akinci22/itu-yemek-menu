@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-18",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Kremalı Domates  Çorbası",
+      "category": "soup",
+      "kcal": 163.3,
+      "protein": 1.6,
+      "carb": 8.8,
+      "fat": 12.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Patates Oturtma",
+      "category": "main",
+      "kcal": 257.3,
+      "protein": 10.2,
+      "carb": 18.9,
+      "fat": 16.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Zeytinyağlı Biber Dolması",
+      "category": "side",
+      "kcal": 344.1,
+      "protein": 5.4,
+      "carb": 43.7,
+      "fat": 15.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fındıklı Krem Şokola",
+      "category": "extra",
+      "kcal": 301,
+      "protein": 5.5,
+      "carb": 51.7,
+      "fat": 6.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurt",
+      "category": "extra",
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-09-04T14:28:22.133Z"
+}
