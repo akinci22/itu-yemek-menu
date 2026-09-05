@@ -1,36 +1,36 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-19",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Kremalı Ispanak Çorbası",
+      "name": "Mahluta Çorbası",
       "category": "soup",
-      "kcal": 115.3,
-      "protein": 1.4,
-      "carb": 6.1,
-      "fat": 10,
+      "kcal": 178.2,
+      "protein": 8,
+      "carb": 17.9,
+      "fat": 7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Kıymalı Biber Dolması",
+      "name": "Kıymalı Kabak Dolması",
       "category": "main",
-      "kcal": 299.1,
-      "protein": 11.5,
-      "carb": 37.1,
-      "fat": 13.3,
+      "kcal": 206.4,
+      "protein": 10.3,
+      "carb": 17.8,
+      "fat": 12.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Peynirli Su Böreği",
+      "name": "Fasulye Pilaki",
       "category": "side",
-      "kcal": 289.9,
-      "protein": 7.7,
-      "carb": 28.4,
-      "fat": 15.2,
+      "kcal": 231.6,
+      "protein": 9.2,
+      "carb": 19.9,
+      "fat": 10.8,
       "vegetarian": false
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "id": 0,
-      "name": "Meyve Suyu",
+      "name": "Mozaik Pasta",
       "category": "extra",
-      "kcal": 239,
-      "protein": 1.2,
-      "carb": 57,
-      "fat": 0.2,
+      "kcal": 313.5,
+      "protein": 6.2,
+      "carb": 56.2,
+      "fat": 6.2,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-05T13:29:44.900Z"
+  "capturedAt": "2026-09-05T13:29:59.600Z"
 }

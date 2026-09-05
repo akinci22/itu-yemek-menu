@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-19",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Mısırlı Ayran Çorbası",
+      "name": "Yoğurtlu Buğday Çorbası",
       "category": "soup",
-      "kcal": 174,
-      "protein": 7.1,
-      "carb": 16.1,
-      "fat": 9.4,
+      "kcal": 116,
+      "protein": 3.2,
+      "carb": 13.1,
+      "fat": 5.3,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Piliç Haşlama",
+      "name": "Ekşili Köfte",
       "category": "main",
-      "kcal": 355.8,
-      "protein": 32,
-      "carb": 13.5,
-      "fat": 22.9,
+      "kcal": 369.3,
+      "protein": 21.7,
+      "carb": 21.2,
+      "fat": 23.3,
       "vegetarian": false
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "id": 0,
-      "name": "Armut",
+      "name": "Kola",
       "category": "extra",
-      "kcal": 93.6,
-      "protein": 0.9,
-      "carb": 22.3,
-      "fat": 0.5,
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-05T13:29:48.325Z"
+  "capturedAt": "2026-09-05T13:29:58.466Z"
 }
