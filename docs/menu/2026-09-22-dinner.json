@@ -1,46 +1,46 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-22",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Arpa Şehriye Çorbası",
+      "name": "Tarhana Çorbası",
       "category": "soup",
-      "kcal": 132.8,
-      "protein": 2,
-      "carb": 11.6,
-      "fat": 8.2,
+      "kcal": 102.8,
+      "protein": 0.3,
+      "carb": 0.6,
+      "fat": 5.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Yoğurtlu Jülyen Kebabı",
+      "name": "Şehriyeli  Güveç",
       "category": "main",
-      "kcal": 275.8,
-      "protein": 28.1,
-      "carb": 6.5,
-      "fat": 24.6,
+      "kcal": 469.8,
+      "protein": 32.8,
+      "carb": 35.1,
+      "fat": 32.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mısırlı Pirinç Pilavı",
+      "name": "Yoğurtlu Karışık Kızartma",
       "category": "side",
-      "kcal": 371.1,
-      "protein": 5.8,
-      "carb": 59.2,
-      "fat": 12.6,
+      "kcal": 210.7,
+      "protein": 5.9,
+      "carb": 15.7,
+      "fat": 13.3,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Akdeniz Salatası",
+      "name": "Kısır",
       "category": "extra",
-      "kcal": 111.7,
-      "protein": 2,
-      "carb": 3.8,
-      "fat": 10,
+      "kcal": 186.1,
+      "protein": 4.2,
+      "carb": 30.3,
+      "fat": 3.5,
       "vegetarian": false
     },
     {
@@ -54,5 +54,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-08T14:41:39.546Z"
+  "capturedAt": "2026-09-08T14:41:42.775Z"
 }
