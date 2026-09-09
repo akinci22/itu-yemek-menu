@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-20",
-  "meal": "dinner",
-  "label": "Akşam Yemeği Menüsü",
+  "date": "2026-09-23",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Tel Şehriyeli Havuç Çorbası",
+      "name": "Andaloz Çorbası",
       "category": "soup",
-      "kcal": 125.7,
+      "kcal": 141.5,
       "protein": 1.7,
-      "carb": 10,
-      "fat": 8.2,
+      "carb": 12.2,
+      "fat": 9.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Piliç Kapama",
+      "name": "İzmir Köfte",
       "category": "main",
-      "kcal": 359.7,
-      "protein": 38.4,
-      "carb": 0.2,
-      "fat": 22.9,
+      "kcal": 345.8,
+      "protein": 21.4,
+      "carb": 17.2,
+      "fat": 23.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Pirinç Pilavı",
+      "name": "Peynirli Makarna",
       "category": "side",
-      "kcal": 363.8,
-      "protein": 5.6,
-      "carb": 58.3,
-      "fat": 12.5,
+      "kcal": 330.6,
+      "protein": 9.5,
+      "carb": 46.4,
+      "fat": 13.8,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Bademli Muhallebi",
+      "name": "Ayran",
       "category": "extra",
-      "kcal": 258.3,
-      "protein": 6.1,
-      "carb": 40.6,
-      "fat": 7,
+      "kcal": 91.4,
+      "protein": 4.8,
+      "carb": 6.2,
+      "fat": 5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mevsim Salatası",
+      "name": "Erik",
       "category": "extra",
       "kcal": 87,
-      "protein": 1.6,
-      "carb": 6.1,
-      "fat": 5.3,
+      "protein": 0.9,
+      "carb": 15.3,
+      "fat": 0.3,
       "vegetarian": false
     },
     {
@@ -64,5 +64,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-09T14:43:12.964Z"
+  "capturedAt": "2026-09-09T14:43:15.066Z"
 }

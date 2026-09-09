@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-23",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
@@ -15,44 +15,44 @@
     },
     {
       "id": 0,
-      "name": "Etli Nohut",
+      "name": "Etli Türlü",
       "category": "main",
-      "kcal": 304.6,
-      "protein": 20,
-      "carb": 23.7,
-      "fat": 13.1,
+      "kcal": 222.2,
+      "protein": 14.5,
+      "carb": 13.2,
+      "fat": 14.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Bulgur Pilavı",
+      "name": "Mısırlı Pirinç Pilavı",
       "category": "side",
-      "kcal": 317.7,
-      "protein": 5.4,
-      "carb": 39.3,
+      "kcal": 371.1,
+      "protein": 5.8,
+      "carb": 59.2,
       "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Haydari",
+      "name": "Browni",
       "category": "extra",
-      "kcal": 156.5,
-      "protein": 6.4,
-      "carb": 6,
-      "fat": 8,
+      "kcal": 293.1,
+      "protein": 4.1,
+      "carb": 45,
+      "fat": 9.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Hindistan Cevizli Muhallebi",
+      "name": "Yoğurt",
       "category": "extra",
-      "kcal": 276,
-      "protein": 4.8,
-      "carb": 41.8,
-      "fat": 8.3,
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-09T14:43:10.680Z"
+  "capturedAt": "2026-09-09T14:43:15.415Z"
 }
