@@ -1,46 +1,46 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-24",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Mahluta Çorbası",
+      "name": "Saray Çorbası",
       "category": "soup",
-      "kcal": 178.2,
-      "protein": 8,
-      "carb": 17.9,
-      "fat": 7,
+      "kcal": 144.2,
+      "protein": 6.5,
+      "carb": 14,
+      "fat": 5.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Köri Soslu Piliç  Sote",
+      "name": "Mantarlı Piliç Kavurma",
       "category": "main",
-      "kcal": 291,
-      "protein": 30.6,
-      "carb": 3.4,
-      "fat": 21.6,
+      "kcal": 508.9,
+      "protein": 27,
+      "carb": 1,
+      "fat": 44.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Zeytinyağlı Brokoli",
+      "name": "Zeytinyağlı Karnabahar-brokoli",
       "category": "side",
-      "kcal": 97.3,
-      "protein": 4.5,
-      "carb": 5.1,
-      "fat": 5.3,
+      "kcal": 92.8,
+      "protein": 3.8,
+      "carb": 5,
+      "fat": 5.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Arpa Şehriye Slatası",
+      "name": "Mısırlı Yoğurt",
       "category": "extra",
-      "kcal": 303,
-      "protein": 7.3,
-      "carb": 38.8,
-      "fat": 12.8,
+      "kcal": 113.1,
+      "protein": 6.1,
+      "carb": 8.4,
+      "fat": 5.9,
       "vegetarian": false
     },
     {
@@ -55,14 +55,14 @@
     },
     {
       "id": 0,
-      "name": "Garnitür Buğday Risotto",
+      "name": "Garnitür Pirinç Pilavı",
       "category": "extra",
-      "kcal": 128.1,
-      "protein": 3.6,
-      "carb": 15.8,
-      "fat": 4.6,
+      "kcal": 224.6,
+      "protein": 3.7,
+      "carb": 38.9,
+      "fat": 6.3,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-10T14:33:17.398Z"
+  "capturedAt": "2026-09-10T14:33:25.931Z"
 }
