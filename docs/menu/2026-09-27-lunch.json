@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-27",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Yayla Çorbası",
+      "name": "Mısırlı Ayran Çorbası",
       "category": "soup",
-      "kcal": 121,
-      "protein": 2.4,
-      "carb": 12,
-      "fat": 7.3,
+      "kcal": 174,
+      "protein": 7.1,
+      "carb": 16.1,
+      "fat": 9.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mantar Soslu Piliç Izgara",
+      "name": "Izgara Köfte",
       "category": "main",
-      "kcal": 606.6,
-      "protein": 32.4,
-      "carb": 4.4,
-      "fat": 51.8,
+      "kcal": 309.8,
+      "protein": 20.9,
+      "carb": 14.3,
+      "fat": 21,
       "vegetarian": false
     },
     {
@@ -35,34 +35,34 @@
     },
     {
       "id": 0,
-      "name": "Rus Salatası",
+      "name": "Meyve Suyu",
       "category": "extra",
-      "kcal": 203,
-      "protein": 5.1,
-      "carb": 13.5,
-      "fat": 15.7,
+      "kcal": 239,
+      "protein": 1.2,
+      "carb": 57,
+      "fat": 0.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Gazoz",
+      "name": "Çoban Salatası",
       "category": "extra",
-      "kcal": 105,
-      "protein": 0,
-      "carb": 26.3,
-      "fat": 0,
+      "kcal": 86.2,
+      "protein": 1.4,
+      "carb": 4.4,
+      "fat": 6.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Garnitür Patates Sote",
+      "name": "Garnitür Elma Dilim Patates Kızartması",
       "category": "extra",
-      "kcal": 141.4,
-      "protein": 1.9,
-      "carb": 14.2,
-      "fat": 7.1,
+      "kcal": 162.6,
+      "protein": 3.1,
+      "carb": 19.5,
+      "fat": 7,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-13T14:32:03.219Z"
+  "capturedAt": "2026-09-13T14:32:17.956Z"
 }
