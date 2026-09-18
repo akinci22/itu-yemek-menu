@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-10-02",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Alaca Çorbası",
+      "name": "Mercimek Çorbası",
       "category": "soup",
-      "kcal": 178.2,
-      "protein": 4.9,
-      "carb": 17,
-      "fat": 8.6,
+      "kcal": 186.8,
+      "protein": 8.4,
+      "carb": 17.1,
+      "fat": 8.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Etli Bezelye",
+      "name": "Patlıcan Musakka",
       "category": "main",
-      "kcal": 221.6,
-      "protein": 17.9,
-      "carb": 20.8,
-      "fat": 11.8,
+      "kcal": 217.1,
+      "protein": 9.9,
+      "carb": 7,
+      "fat": 17.4,
       "vegetarian": false
     },
     {
@@ -35,24 +35,24 @@
     },
     {
       "id": 0,
-      "name": "Kıbrıs Tatlısı",
+      "name": "Mısırlı Yoğurt",
       "category": "extra",
-      "kcal": 401.8,
-      "protein": 4.3,
-      "carb": 72,
-      "fat": 10.5,
+      "kcal": 113.1,
+      "protein": 6.1,
+      "carb": 8.4,
+      "fat": 5.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Haydari",
+      "name": "Trileçe",
       "category": "extra",
-      "kcal": 156.5,
-      "protein": 6.4,
-      "carb": 6,
-      "fat": 8,
+      "kcal": 244.9,
+      "protein": 5.3,
+      "carb": 28.7,
+      "fat": 7.5,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-18T14:34:59.948Z"
+  "capturedAt": "2026-09-18T14:35:13.136Z"
 }

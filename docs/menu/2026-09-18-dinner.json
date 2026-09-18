@@ -52,7 +52,17 @@
       "carb": 25.9,
       "fat": 0,
       "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Kızartması",
+      "category": "extra",
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
+      "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-17T19:57:08.155Z"
+  "capturedAt": "2026-09-18T14:35:03.950Z"
 }
