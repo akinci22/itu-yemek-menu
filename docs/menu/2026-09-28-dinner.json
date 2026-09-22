@@ -45,14 +45,14 @@
     },
     {
       "id": 0,
-      "name": "Fındıklı Krem Şokola",
+      "name": "Lokma Tatlısı",
       "category": "extra",
-      "kcal": 301,
-      "protein": 5.5,
-      "carb": 51.7,
-      "fat": 6.8,
+      "kcal": 297.4,
+      "protein": 2.3,
+      "carb": 56,
+      "fat": 8.7,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-21T20:43:23.197Z"
+  "capturedAt": "2026-09-22T15:06:41.084Z"
 }

@@ -5,54 +5,54 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Yayla Çorbası",
+      "name": "Tel Şehriyeli Havuç Çorbası",
       "category": "soup",
-      "kcal": 121,
-      "protein": 2.4,
-      "carb": 12,
-      "fat": 7.3,
+      "kcal": 125.7,
+      "protein": 1.7,
+      "carb": 10,
+      "fat": 8.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Etli Barbunya",
+      "name": "Kıymalı Biber Dolması",
       "category": "main",
-      "kcal": 213.2,
-      "protein": 22.2,
-      "carb": 23.3,
-      "fat": 14,
+      "kcal": 299.1,
+      "protein": 11.5,
+      "carb": 37.1,
+      "fat": 13.3,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Bulgur Pilavı",
+      "name": "Patatesli Gül Böreği",
       "category": "side",
-      "kcal": 317.7,
-      "protein": 5.4,
-      "carb": 39.3,
-      "fat": 12.6,
+      "kcal": 319.9,
+      "protein": 4.7,
+      "carb": 38.6,
+      "fat": 17.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Cacık",
+      "name": "Mozaik Pasta",
       "category": "extra",
-      "kcal": 74.5,
-      "protein": 4.2,
-      "carb": 5.2,
-      "fat": 4.9,
+      "kcal": 313.5,
+      "protein": 6.2,
+      "carb": 56.2,
+      "fat": 6.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Karışık Turşu",
+      "name": "Yoğurt",
       "category": "extra",
-      "kcal": 36.1,
-      "protein": 1.3,
-      "carb": 6.1,
-      "fat": 0.3,
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-09-21T20:43:24.813Z"
+  "capturedAt": "2026-09-22T15:06:43.117Z"
 }
