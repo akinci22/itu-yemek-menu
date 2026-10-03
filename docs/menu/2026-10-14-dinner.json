@@ -1,36 +1,36 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-10-14",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Tel Şehriye Çorbası",
+      "name": "Saray Çorbası",
       "category": "soup",
-      "kcal": 113.9,
-      "protein": 2,
-      "carb": 11,
-      "fat": 6.2,
+      "kcal": 144.2,
+      "protein": 6.5,
+      "carb": 14,
+      "fat": 5.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Etli Patates",
+      "name": "Kıymalı Karnabahar",
       "category": "main",
-      "kcal": 281,
-      "protein": 18.2,
-      "carb": 22.7,
-      "fat": 16.9,
+      "kcal": 159.3,
+      "protein": 11.4,
+      "carb": 6,
+      "fat": 11.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Bulgur Pilavı",
+      "name": "Yeşil Mercimekli Bulgur Pilavı",
       "category": "side",
-      "kcal": 317.7,
-      "protein": 5.4,
-      "carb": 39.3,
-      "fat": 12.6,
+      "kcal": 316.9,
+      "protein": 7.3,
+      "carb": 38.4,
+      "fat": 12.7,
       "vegetarian": false
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "id": 0,
-      "name": "Sütlü İrmik Tatlısı",
+      "name": "Şöbiyet",
       "category": "extra",
-      "kcal": 310.1,
-      "protein": 6.7,
-      "carb": 53.1,
-      "fat": 5.9,
+      "kcal": 404.9,
+      "protein": 4.6,
+      "carb": 57.9,
+      "fat": 18.8,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-03T14:47:33.193Z"
+  "capturedAt": "2026-10-03T14:47:47.374Z"
 }

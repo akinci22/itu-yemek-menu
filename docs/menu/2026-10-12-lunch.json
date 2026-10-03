@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-12",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Toyga Çorbası",
+      "category": "soup",
+      "kcal": 141.7,
+      "protein": 4.2,
+      "carb": 14.9,
+      "fat": 6.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kuru Köfte",
+      "category": "main",
+      "kcal": 309.7,
+      "protein": 20.9,
+      "carb": 14.3,
+      "fat": 21,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Zeytinyağlı Ispanak",
+      "category": "side",
+      "kcal": 84.1,
+      "protein": 3.6,
+      "carb": 2.3,
+      "fat": 6.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Arpa Şehriye Slatası",
+      "category": "extra",
+      "kcal": 303,
+      "protein": 7.3,
+      "carb": 38.8,
+      "fat": 12.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fasulye Piyazı",
+      "category": "extra",
+      "kcal": 250.7,
+      "protein": 12,
+      "carb": 22.2,
+      "fat": 11.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Püresi",
+      "category": "extra",
+      "kcal": 86.4,
+      "protein": 2.2,
+      "carb": 13.8,
+      "fat": 1,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-10-03T14:47:45.219Z"
+}
