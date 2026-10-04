@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-18",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Ezogelin Çorbası",
+      "name": "Erzincan Çorbası",
       "category": "soup",
-      "kcal": 197.1,
-      "protein": 7.4,
-      "carb": 19.2,
-      "fat": 8.5,
+      "kcal": 114.1,
+      "protein": 4,
+      "carb": 10.3,
+      "fat": 7.1,
       "vegetarian": false
     },
     {
@@ -25,34 +25,34 @@
     },
     {
       "id": 0,
-      "name": "Yeşil Mercimekli Bulgur Pilavı",
-      "category": "side",
-      "kcal": 316.9,
-      "protein": 7.3,
-      "carb": 38.4,
-      "fat": 12.7,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
-      "name": "Kıbrıs Tatlısı",
-      "category": "extra",
-      "kcal": 401.8,
-      "protein": 4.3,
-      "carb": 72,
-      "fat": 10.5,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
       "name": "Kabak Tarator",
-      "category": "extra",
+      "category": "side",
       "kcal": 191.5,
       "protein": 6.7,
       "carb": 7.3,
       "fat": 14.7,
       "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mozaik Pasta",
+      "category": "extra",
+      "kcal": 313.5,
+      "protein": 6.2,
+      "carb": 56.2,
+      "fat": 6.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kısır",
+      "category": "extra",
+      "kcal": 186.1,
+      "protein": 4.2,
+      "carb": 30.3,
+      "fat": 3.5,
+      "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-04T15:27:28.256Z"
+  "capturedAt": "2026-10-04T15:27:39.183Z"
 }
