@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-20",
   "meal": "lunch",
   "label": "Öğle Yemeği Menüsü",
   "dishes": [
@@ -15,44 +15,44 @@
     },
     {
       "id": 0,
-      "name": "Kıymalı Pırasa",
+      "name": "Kıymalı Ispanak",
       "category": "main",
-      "kcal": 158,
-      "protein": 8.8,
-      "carb": 8.3,
-      "fat": 10.5,
+      "kcal": 134.5,
+      "protein": 10,
+      "carb": 5.8,
+      "fat": 9.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Peynirli Kol Böreği",
+      "name": "Patatesli Gül Böreği",
       "category": "side",
-      "kcal": 349.2,
-      "protein": 7,
-      "carb": 35.9,
-      "fat": 20.7,
+      "kcal": 319.9,
+      "protein": 4.7,
+      "carb": 38.6,
+      "fat": 17.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Haydari",
+      "name": "Yoğurt",
       "category": "extra",
-      "kcal": 156.5,
-      "protein": 6.4,
-      "carb": 6,
-      "fat": 8,
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Cevizli Baklava",
+      "name": "Fındıklı İrmik Helvası",
       "category": "extra",
-      "kcal": 404.9,
-      "protein": 4.6,
-      "carb": 57.9,
-      "fat": 18.8,
+      "kcal": 403.4,
+      "protein": 4.8,
+      "carb": 61.9,
+      "fat": 15.1,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-05T23:01:28.735Z"
+  "capturedAt": "2026-10-05T23:01:36.719Z"
 }
