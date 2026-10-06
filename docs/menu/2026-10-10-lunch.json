@@ -25,12 +25,12 @@
     },
     {
       "id": 0,
-      "name": "Pirinç Pilavı",
+      "name": "Şehriyeli Pirinç Pilavı",
       "category": "side",
-      "kcal": 363.8,
-      "protein": 5.6,
-      "carb": 58.3,
-      "fat": 12.5,
+      "kcal": 398.3,
+      "protein": 7.1,
+      "carb": 65,
+      "fat": 12.6,
       "vegetarian": false
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "id": 0,
-      "name": "Ayran",
+      "name": "Kola",
       "category": "extra",
-      "kcal": 91.4,
-      "protein": 4.8,
-      "carb": 6.2,
-      "fat": 5,
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-05T23:01:27.972Z"
+  "capturedAt": "2026-10-06T16:53:04.510Z"
 }

@@ -5,64 +5,54 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Saray Çorbası",
+      "name": "Erzincan Çorbası",
       "category": "soup",
-      "kcal": 144.2,
-      "protein": 6.5,
-      "carb": 14,
-      "fat": 5.5,
+      "kcal": 114.1,
+      "protein": 4,
+      "carb": 10.3,
+      "fat": 7.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Çoban Kavurma",
+      "name": "Kıymalı Yeşil Mercimek",
       "category": "main",
-      "kcal": 248.4,
-      "protein": 26.8,
-      "carb": 1.6,
-      "fat": 26,
-      "vegetarian": false
+      "kcal": 300.4,
+      "protein": 20.3,
+      "carb": 32.3,
+      "fat": 12,
+      "vegetarian": true
     },
     {
       "id": 0,
-      "name": "Sebze Graten",
+      "name": "Bulgur Pilavı",
       "category": "side",
-      "kcal": 262.9,
-      "protein": 7,
-      "carb": 20.1,
-      "fat": 16.9,
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
+      "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Ayran",
+      "name": "Sütlü İrmik Tatlısı",
       "category": "extra",
-      "kcal": 91.4,
-      "protein": 4.8,
-      "carb": 6.2,
-      "fat": 5,
+      "kcal": 310.1,
+      "protein": 6.7,
+      "carb": 53.1,
+      "fat": 5.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Elma",
+      "name": "Havuç Tarator",
       "category": "extra",
-      "kcal": 104.4,
-      "protein": 0.5,
-      "carb": 25.9,
-      "fat": 0,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
-      "name": "Garnitür Pirinç Pilavı",
-      "category": "extra",
-      "kcal": 224.6,
-      "protein": 3.7,
-      "carb": 38.9,
-      "fat": 6.3,
+      "kcal": 193.6,
+      "protein": 4.9,
+      "carb": 12.6,
+      "fat": 14,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-05T23:01:25.557Z"
+  "capturedAt": "2026-10-06T16:53:01.716Z"
 }
