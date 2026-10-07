@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-22",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Yayla Çorbası",
+      "category": "soup",
+      "kcal": 121,
+      "protein": 2.4,
+      "carb": 12,
+      "fat": 7.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Hindi Külbastı",
+      "category": "main",
+      "kcal": 239.8,
+      "protein": 37.9,
+      "carb": 0.4,
+      "fat": 8.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Sebzeli Kuskus",
+      "category": "side",
+      "kcal": 286.6,
+      "protein": 7.7,
+      "carb": 43,
+      "fat": 8.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Havuç Tarator",
+      "category": "extra",
+      "kcal": 193.6,
+      "protein": 4.9,
+      "carb": 12.6,
+      "fat": 14,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kola",
+      "category": "extra",
+      "kcal": 105,
+      "protein": 0,
+      "carb": 26.3,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Buğday Risotto",
+      "category": "extra",
+      "kcal": 128.1,
+      "protein": 3.6,
+      "carb": 15.8,
+      "fat": 4.6,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-10-07T21:43:02.965Z"
+}
