@@ -1,46 +1,46 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-23",
   "meal": "dinner",
   "label": "Akşam Yemeği Menüsü",
   "dishes": [
     {
       "id": 0,
-      "name": "Ezogelin Çorbası",
+      "name": "Mercimek Çorbası",
       "category": "soup",
-      "kcal": 197.1,
-      "protein": 7.4,
-      "carb": 19.2,
-      "fat": 8.5,
+      "kcal": 186.8,
+      "protein": 8.4,
+      "carb": 17.1,
+      "fat": 8.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Hindi Sote",
+      "name": "Böfstrogonof",
       "category": "main",
-      "kcal": 273.9,
-      "protein": 38.6,
-      "carb": 4.7,
-      "fat": 9.5,
+      "kcal": 229.3,
+      "protein": 25.9,
+      "carb": 3.3,
+      "fat": 22.8,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Soslu Makarna",
+      "name": "Pirinç Pilavı",
       "category": "side",
-      "kcal": 303.8,
-      "protein": 8,
-      "carb": 43.7,
-      "fat": 9.8,
+      "kcal": 363.8,
+      "protein": 5.6,
+      "carb": 58.3,
+      "fat": 12.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Limonata",
+      "name": "Havuç Lahana Salatası",
       "category": "extra",
-      "kcal": 30,
-      "protein": 0,
-      "carb": 8.1,
-      "fat": 0,
+      "kcal": 148.8,
+      "protein": 1.9,
+      "carb": 8.6,
+      "fat": 10.4,
       "vegetarian": false
     },
     {
@@ -55,14 +55,14 @@
     },
     {
       "id": 0,
-      "name": "Garnitür Küp Patates Kızartması",
+      "name": "Garnitür Patates Kızartması",
       "category": "extra",
-      "kcal": 202,
-      "protein": 3.5,
-      "carb": 23,
-      "fat": 9.9,
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-08T21:41:35.017Z"
+  "capturedAt": "2026-10-08T21:41:47.482Z"
 }
