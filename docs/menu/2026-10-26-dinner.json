@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-26",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Kremalı Domates  Çorbası",
+      "category": "soup",
+      "kcal": 163.3,
+      "protein": 1.6,
+      "carb": 8.8,
+      "fat": 12.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fırın Balık (uskumru)",
+      "category": "main",
+      "kcal": 391.2,
+      "protein": 31.4,
+      "carb": 0,
+      "fat": 37.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Arrabiata Soslu Makarna",
+      "category": "side",
+      "kcal": 311.8,
+      "protein": 8,
+      "carb": 45.8,
+      "fat": 9.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Şalgam Suyu",
+      "category": "extra",
+      "kcal": 15,
+      "protein": 0,
+      "carb": 3.5,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Cevizli İrmik Helvası",
+      "category": "extra",
+      "kcal": 404,
+      "protein": 4.8,
+      "carb": 61.9,
+      "fat": 15.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Roka Salatası",
+      "category": "extra",
+      "kcal": 12.9,
+      "protein": 1.1,
+      "carb": 1.1,
+      "fat": 0.3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-10-12T19:55:23.189Z"
+}
