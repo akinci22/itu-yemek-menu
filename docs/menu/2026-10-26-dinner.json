@@ -5,22 +5,22 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Kremalı Domates  Çorbası",
+      "name": "Mahluta Çorbası",
       "category": "soup",
-      "kcal": 163.3,
-      "protein": 1.6,
-      "carb": 8.8,
-      "fat": 12.3,
+      "kcal": 178.2,
+      "protein": 8,
+      "carb": 17.9,
+      "fat": 7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Fırın Balık (uskumru)",
+      "name": "Çıtır Tavuk",
       "category": "main",
-      "kcal": 391.2,
-      "protein": 31.4,
-      "carb": 0,
-      "fat": 37.1,
+      "kcal": 409,
+      "protein": 32.3,
+      "carb": 11.7,
+      "fat": 30.5,
       "vegetarian": false
     },
     {
@@ -35,34 +35,34 @@
     },
     {
       "id": 0,
-      "name": "Şalgam Suyu",
+      "name": "Meyve Suyu",
       "category": "extra",
-      "kcal": 15,
-      "protein": 0,
-      "carb": 3.5,
-      "fat": 0,
+      "kcal": 239,
+      "protein": 1.2,
+      "carb": 57,
+      "fat": 0.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Cevizli İrmik Helvası",
+      "name": "Havuçlu Kereviz",
       "category": "extra",
-      "kcal": 404,
-      "protein": 4.8,
-      "carb": 61.9,
-      "fat": 15.6,
+      "kcal": 224.5,
+      "protein": 3.5,
+      "carb": 6.9,
+      "fat": 20.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Garnitür Roka Salatası",
+      "name": "Garnitür Patates Kızartması",
       "category": "extra",
-      "kcal": 12.9,
-      "protein": 1.1,
-      "carb": 1.1,
-      "fat": 0.3,
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-14T15:20:26.437Z"
+  "capturedAt": "2026-10-15T15:11:42.079Z"
 }

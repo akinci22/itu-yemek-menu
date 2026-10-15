@@ -5,54 +5,64 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Kremalı Domates  Çorbası",
+      "name": "Kremalı Brokoli Çorbası",
       "category": "soup",
-      "kcal": 163.3,
-      "protein": 1.6,
-      "carb": 8.8,
-      "fat": 12.3,
+      "kcal": 110.5,
+      "protein": 1.8,
+      "carb": 6.6,
+      "fat": 8.2,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Kıymalı Pırasa",
+      "name": "İzmir Köfte",
       "category": "main",
-      "kcal": 158,
-      "protein": 8.8,
-      "carb": 8.3,
-      "fat": 10.5,
+      "kcal": 345.8,
+      "protein": 21.4,
+      "carb": 17.2,
+      "fat": 23.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Fırın Makarna",
+      "name": "Pirinç Pilavı",
       "category": "side",
-      "kcal": 413.2,
-      "protein": 12.2,
-      "carb": 41.8,
-      "fat": 24,
+      "kcal": 363.8,
+      "protein": 5.6,
+      "carb": 58.3,
+      "fat": 12.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Nohut Salatası",
+      "name": "Rus Salatası",
       "category": "extra",
-      "kcal": 166.4,
-      "protein": 8.7,
-      "carb": 21.1,
-      "fat": 2.3,
+      "kcal": 203,
+      "protein": 5.1,
+      "carb": 13.5,
+      "fat": 15.7,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mozaik Pasta",
+      "name": "Ayran",
       "category": "extra",
-      "kcal": 313.5,
-      "protein": 6.2,
-      "carb": 56.2,
-      "fat": 6.2,
+      "kcal": 91.4,
+      "protein": 4.8,
+      "carb": 6.2,
+      "fat": 5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Elma Dilim Patates Kızartması",
+      "category": "extra",
+      "kcal": 162.6,
+      "protein": 3.1,
+      "carb": 19.5,
+      "fat": 7,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-14T20:23:22.094Z"
+  "capturedAt": "2026-10-15T15:11:39.536Z"
 }

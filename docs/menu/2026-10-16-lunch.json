@@ -15,32 +15,22 @@
     },
     {
       "id": 0,
-      "name": "Tavuk Tantuni",
+      "name": "Piliç Sote",
       "category": "main",
-      "kcal": 518.3,
-      "protein": 35.4,
-      "carb": 31.2,
-      "fat": 30.2,
+      "kcal": 324.9,
+      "protein": 30.7,
+      "carb": 4.7,
+      "fat": 24.5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mevsim Salatası",
+      "name": "Şehriyeli Pirinç Pilavı",
       "category": "side",
-      "kcal": 75.5,
-      "protein": 1.2,
-      "carb": 4.4,
-      "fat": 5.2,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
-      "name": "Sütlaç",
-      "category": "extra",
-      "kcal": 228.3,
-      "protein": 4.6,
-      "carb": 44.2,
-      "fat": 2.7,
+      "kcal": 398.3,
+      "protein": 7.1,
+      "carb": 65,
+      "fat": 12.6,
       "vegetarian": false
     },
     {
@@ -55,14 +45,24 @@
     },
     {
       "id": 0,
-      "name": "Garnitür Patates Kızartması",
+      "name": "Krem Şokola",
       "category": "extra",
-      "kcal": 167.6,
-      "protein": 3.4,
-      "carb": 23.6,
-      "fat": 9.2,
+      "kcal": 268.7,
+      "protein": 4.6,
+      "carb": 51.4,
+      "fat": 3.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Küp Patates Kızartması",
+      "category": "extra",
+      "kcal": 202,
+      "protein": 3.5,
+      "carb": 23,
+      "fat": 9.9,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-14T20:23:15.964Z"
+  "capturedAt": "2026-10-15T15:11:34.109Z"
 }

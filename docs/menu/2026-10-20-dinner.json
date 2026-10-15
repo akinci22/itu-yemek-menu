@@ -5,64 +5,54 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Ezogelin Çorbası",
+      "name": "Tarhana Çorbası",
       "category": "soup",
-      "kcal": 197.1,
-      "protein": 7.4,
-      "carb": 19.2,
-      "fat": 8.5,
+      "kcal": 102.8,
+      "protein": 0.3,
+      "carb": 0.6,
+      "fat": 5.1,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Rosto Köfte",
+      "name": "Patlıcan Musakka",
       "category": "main",
-      "kcal": 354.8,
-      "protein": 21.4,
-      "carb": 17.2,
-      "fat": 24.1,
+      "kcal": 217.1,
+      "protein": 9.9,
+      "carb": 7,
+      "fat": 17.4,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Mantarlı Makarna",
+      "name": "Mısırlı Pirinç Pilavı",
       "category": "side",
-      "kcal": 292.2,
-      "protein": 8.1,
-      "carb": 42.4,
-      "fat": 9.8,
+      "kcal": 371.1,
+      "protein": 5.8,
+      "carb": 59.2,
+      "fat": 12.6,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Portakal",
+      "name": "Cacık",
       "category": "extra",
-      "kcal": 90,
-      "protein": 2,
-      "carb": 16.6,
-      "fat": 0.4,
+      "kcal": 74.5,
+      "protein": 4.2,
+      "carb": 5.2,
+      "fat": 4.9,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Rus Salatası",
+      "name": "Lokma Tatlısı",
       "category": "extra",
-      "kcal": 203,
-      "protein": 5.1,
-      "carb": 13.5,
-      "fat": 15.7,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
-      "name": "Garnitür Patates Püresi",
-      "category": "extra",
-      "kcal": 86.4,
-      "protein": 2.2,
-      "carb": 13.8,
-      "fat": 1,
+      "kcal": 297.4,
+      "protein": 2.3,
+      "carb": 56,
+      "fat": 8.7,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-14T20:23:19.926Z"
+  "capturedAt": "2026-10-15T15:11:37.568Z"
 }
