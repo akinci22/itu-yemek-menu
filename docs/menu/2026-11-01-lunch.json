@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-01",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Düğün Çorbası",
+      "category": "soup",
+      "kcal": 113.6,
+      "protein": 4.7,
+      "carb": 8.6,
+      "fat": 7.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Bezelye",
+      "category": "main",
+      "kcal": 221.6,
+      "protein": 17.9,
+      "carb": 20.8,
+      "fat": 11.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mısırlı Pirinç Pilavı",
+      "category": "side",
+      "kcal": 371.1,
+      "protein": 5.8,
+      "carb": 59.2,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Haydari",
+      "category": "extra",
+      "kcal": 156.5,
+      "protein": 6.4,
+      "carb": 6,
+      "fat": 8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Osmanlı Tulumba Tatlısı",
+      "category": "extra",
+      "kcal": 297.4,
+      "protein": 2.3,
+      "carb": 56,
+      "fat": 8.7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-10-18T14:05:49.253Z"
+}
