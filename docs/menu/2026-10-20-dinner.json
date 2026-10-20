@@ -25,11 +25,11 @@
     },
     {
       "id": 0,
-      "name": "Mısırlı Pirinç Pilavı",
+      "name": "Bulgur Pilavı",
       "category": "side",
-      "kcal": 371.1,
-      "protein": 5.8,
-      "carb": 59.2,
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
       "fat": 12.6,
       "vegetarian": false
     },
@@ -54,5 +54,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-10-19T21:18:31.085Z"
+  "capturedAt": "2026-10-20T15:16:07.143Z"
 }
