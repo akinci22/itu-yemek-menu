@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-08",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Osmanlı Çorbası",
+      "category": "soup",
+      "kcal": 94.8,
+      "protein": 4.3,
+      "carb": 7.2,
+      "fat": 6.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kıymalı Yeşil Mercimek",
+      "category": "main",
+      "kcal": 300.4,
+      "protein": 20.3,
+      "carb": 32.3,
+      "fat": 12,
+      "vegetarian": true
+    },
+    {
+      "id": 0,
+      "name": "Bulgur Pilavı",
+      "category": "side",
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Rus Salatası",
+      "category": "extra",
+      "kcal": 203,
+      "protein": 5.1,
+      "carb": 13.5,
+      "fat": 15.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mandalina",
+      "category": "extra",
+      "kcal": 90,
+      "protein": 1.3,
+      "carb": 18.2,
+      "fat": 0.5,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-10-29T17:01:25.243Z"
+}
