@@ -17,10 +17,10 @@
       "id": 0,
       "name": "Palamut Ekşilisi",
       "category": "main",
-      "kcal": 546,
-      "protein": 2.2,
-      "carb": 14.7,
-      "fat": 8.2,
+      "kcal": 490.6,
+      "protein": 34.1,
+      "carb": 12.5,
+      "fat": 32.3,
       "vegetarian": false
     },
     {
@@ -54,5 +54,5 @@
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-11-03T22:09:42.303Z"
+  "capturedAt": "2026-11-04T18:09:23.926Z"
 }
