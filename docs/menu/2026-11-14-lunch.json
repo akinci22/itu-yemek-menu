@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-14",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Saray Çorbası",
+      "category": "soup",
+      "kcal": 144.2,
+      "protein": 6.5,
+      "carb": 14,
+      "fat": 5.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Izgara Köfte",
+      "category": "main",
+      "kcal": 309.8,
+      "protein": 20.9,
+      "carb": 14.3,
+      "fat": 21,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Kremalı Mantarlı Fesleğenli Makarna",
+      "category": "side",
+      "kcal": 292,
+      "protein": 8.6,
+      "carb": 43.1,
+      "fat": 9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Akdeniz Salatası",
+      "category": "extra",
+      "kcal": 111.7,
+      "protein": 2,
+      "carb": 3.8,
+      "fat": 10,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Armut",
+      "category": "extra",
+      "kcal": 93.6,
+      "protein": 0.9,
+      "carb": 22.3,
+      "fat": 0.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Sote",
+      "category": "extra",
+      "kcal": 141.4,
+      "protein": 1.9,
+      "carb": 14.2,
+      "fat": 7.1,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-06T17:37:29.089Z"
+}

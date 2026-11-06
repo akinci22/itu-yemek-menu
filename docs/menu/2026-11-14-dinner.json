@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-14",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Düğün Çorbası",
+      "category": "soup",
+      "kcal": 113.6,
+      "protein": 4.7,
+      "carb": 8.6,
+      "fat": 7.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Barbunya",
+      "category": "main",
+      "kcal": 213.2,
+      "protein": 22.2,
+      "carb": 23.3,
+      "fat": 14,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Bulgur Pilavı",
+      "category": "side",
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurt",
+      "category": "extra",
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Karışık Turşu",
+      "category": "extra",
+      "kcal": 36.1,
+      "protein": 1.3,
+      "carb": 6.1,
+      "fat": 0.3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-06T17:37:29.409Z"
+}

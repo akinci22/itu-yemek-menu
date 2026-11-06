@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-16",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Alaca Çorbası",
+      "category": "soup",
+      "kcal": 178.2,
+      "protein": 4.9,
+      "carb": 17,
+      "fat": 8.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurtlu Etli Mantı",
+      "category": "main",
+      "kcal": 334.2,
+      "protein": 15.5,
+      "carb": 36,
+      "fat": 14.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Zeytinyağlı Ispanak",
+      "category": "side",
+      "kcal": 84.1,
+      "protein": 3.6,
+      "carb": 2.3,
+      "fat": 6.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fındıklı Krem Şokola",
+      "category": "extra",
+      "kcal": 301,
+      "protein": 5.5,
+      "carb": 51.7,
+      "fat": 6.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yeşil Mercimek Salatası",
+      "category": "extra",
+      "kcal": 159.2,
+      "protein": 8,
+      "carb": 18.5,
+      "fat": 5.7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-06T17:37:30.569Z"
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-15",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Tel Şehriyeli Havuç Çorbası",
+      "category": "soup",
+      "kcal": 125.7,
+      "protein": 1.7,
+      "carb": 10,
+      "fat": 8.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Tavuklu Bezelye",
+      "category": "main",
+      "kcal": 288.7,
+      "protein": 26.2,
+      "carb": 20.8,
+      "fat": 14.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mısırlı Pirinç Pilavı",
+      "category": "side",
+      "kcal": 371.1,
+      "protein": 5.8,
+      "carb": 59.2,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Cevizli Baklava",
+      "category": "extra",
+      "kcal": 404.9,
+      "protein": 4.6,
+      "carb": 57.9,
+      "fat": 18.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yoğurt",
+      "category": "extra",
+      "kcal": 88.5,
+      "protein": 5.9,
+      "carb": 6.6,
+      "fat": 5.7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-06T17:37:29.720Z"
+}

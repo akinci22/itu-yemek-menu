@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-09",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Tarhana Çorbası",
+      "category": "soup",
+      "kcal": 102.8,
+      "protein": 0.3,
+      "carb": 0.6,
+      "fat": 5.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Hamburger Köfte",
+      "category": "main",
+      "kcal": 353.8,
+      "protein": 21.4,
+      "carb": 17.1,
+      "fat": 24.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Peynirli Makarna",
+      "category": "side",
+      "kcal": 330.6,
+      "protein": 9.5,
+      "carb": 46.4,
+      "fat": 13.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mevsim Salatası",
+      "category": "extra",
+      "kcal": 87,
+      "protein": 1.6,
+      "carb": 6.1,
+      "fat": 5.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mandalina",
+      "category": "extra",
+      "kcal": 90,
+      "protein": 1.3,
+      "carb": 18.2,
+      "fat": 0.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Püresi",
+      "category": "extra",
+      "kcal": 86.4,
+      "protein": 2.2,
+      "carb": 13.8,
+      "fat": 1,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-06T17:37:25.958Z"
+}
