@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-18",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Ezogelin Çorbası",
+      "category": "soup",
+      "kcal": 197.1,
+      "protein": 7.4,
+      "carb": 19.2,
+      "fat": 8.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Balık Kızartma (uskumru)",
+      "category": "main",
+      "kcal": 472.2,
+      "protein": 32.9,
+      "carb": 10.9,
+      "fat": 40.4,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Salçalı Makarna",
+      "category": "side",
+      "kcal": 299.9,
+      "protein": 7.7,
+      "carb": 42.9,
+      "fat": 9.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yer Fıstıklı İrmik Helvası",
+      "category": "extra",
+      "kcal": 397.8,
+      "protein": 5.6,
+      "carb": 62,
+      "fat": 14.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Şalgam Suyu",
+      "category": "extra",
+      "kcal": 15,
+      "protein": 0,
+      "carb": 3.5,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Roka Salatası",
+      "category": "extra",
+      "kcal": 12.9,
+      "protein": 1.1,
+      "carb": 1.1,
+      "fat": 0.3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-08T16:45:04.094Z"
+}

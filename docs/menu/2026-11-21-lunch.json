@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-21",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Düğün Çorbası",
+      "category": "soup",
+      "kcal": 113.6,
+      "protein": 4.7,
+      "carb": 8.6,
+      "fat": 7.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Kuru Fasulye",
+      "category": "main",
+      "kcal": 287.4,
+      "protein": 20.6,
+      "carb": 23.2,
+      "fat": 14,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Bulgur Pilavı",
+      "category": "side",
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Karışık Turşu",
+      "category": "extra",
+      "kcal": 36.1,
+      "protein": 1.3,
+      "carb": 6.1,
+      "fat": 0.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Haydari",
+      "category": "extra",
+      "kcal": 156.5,
+      "protein": 6.4,
+      "carb": 6,
+      "fat": 8,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-08T16:45:07.084Z"
+}

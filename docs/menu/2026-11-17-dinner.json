@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-17",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Arpa Şehriye Çorbası",
+      "category": "soup",
+      "kcal": 132.8,
+      "protein": 2,
+      "carb": 11.6,
+      "fat": 8.2,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Türlü",
+      "category": "main",
+      "kcal": 222.2,
+      "protein": 14.5,
+      "carb": 13.2,
+      "fat": 14.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mısırlı Pirinç Pilavı",
+      "category": "side",
+      "kcal": 371.1,
+      "protein": 5.8,
+      "carb": 59.2,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Trileçe",
+      "category": "extra",
+      "kcal": 244.9,
+      "protein": 5.3,
+      "carb": 28.7,
+      "fat": 7.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Cacık",
+      "category": "extra",
+      "kcal": 74.5,
+      "protein": 4.2,
+      "carb": 5.2,
+      "fat": 4.9,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-08T16:45:03.676Z"
+}
