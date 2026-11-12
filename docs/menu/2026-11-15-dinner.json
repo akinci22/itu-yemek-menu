@@ -15,12 +15,12 @@
     },
     {
       "id": 0,
-      "name": "Balık Pane",
+      "name": "Piliç   Şinitzel",
       "category": "main",
-      "kcal": 298.7,
-      "protein": 16.1,
-      "carb": 19.8,
-      "fat": 13.9,
+      "kcal": 303.9,
+      "protein": 19.7,
+      "carb": 15.7,
+      "fat": 17.2,
       "vegetarian": false
     },
     {
@@ -45,24 +45,24 @@
     },
     {
       "id": 0,
-      "name": "Şalgam Suyu",
+      "name": "Ayran",
       "category": "extra",
-      "kcal": 15,
-      "protein": 0,
-      "carb": 3.5,
-      "fat": 0,
+      "kcal": 91.4,
+      "protein": 4.8,
+      "carb": 6.2,
+      "fat": 5,
       "vegetarian": false
     },
     {
       "id": 0,
-      "name": "Garnitür Roka Salatası",
+      "name": "Garnitür Patates Kızartması",
       "category": "extra",
-      "kcal": 12.9,
-      "protein": 1.1,
-      "carb": 1.1,
-      "fat": 0.3,
+      "kcal": 167.6,
+      "protein": 3.4,
+      "carb": 23.6,
+      "fat": 9.2,
       "vegetarian": false
     }
   ],
-  "capturedAt": "2026-11-11T23:14:32.868Z"
+  "capturedAt": "2026-11-12T18:29:45.993Z"
 }

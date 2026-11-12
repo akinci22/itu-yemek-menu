@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-23",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Ezogelin Çorbası",
+      "category": "soup",
+      "kcal": 197.1,
+      "protein": 7.4,
+      "carb": 19.2,
+      "fat": 8.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Etli Türlü",
+      "category": "main",
+      "kcal": 222.2,
+      "protein": 14.5,
+      "carb": 13.2,
+      "fat": 14.9,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Şehriyeli Pirinç Pilavı",
+      "category": "side",
+      "kcal": 398.3,
+      "protein": 7.1,
+      "carb": 65,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Bisküvili Pasta",
+      "category": "extra",
+      "kcal": 348.3,
+      "protein": 7.3,
+      "carb": 62.3,
+      "fat": 6.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Yeşil Mercimek Salatası",
+      "category": "extra",
+      "kcal": 159.2,
+      "protein": 8,
+      "carb": 18.5,
+      "fat": 5.7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-12T18:29:54.112Z"
+}
