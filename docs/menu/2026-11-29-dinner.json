@@ -35,16 +35,6 @@
     },
     {
       "id": 0,
-      "name": "Akdeniz Salatası",
-      "category": "extra",
-      "kcal": 111.7,
-      "protein": 2,
-      "carb": 3.8,
-      "fat": 10,
-      "vegetarian": false
-    },
-    {
-      "id": 0,
       "name": "Armut",
       "category": "extra",
       "kcal": 93.6,
@@ -52,7 +42,17 @@
       "carb": 22.3,
       "fat": 0.5,
       "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Roka Salatası",
+      "category": "extra",
+      "kcal": 78.4,
+      "protein": 2.2,
+      "carb": 2.1,
+      "fat": 6.6,
+      "vegetarian": false
     }
   ],
-  "capturedAt": "2026-11-27T00:54:30.140Z"
+  "capturedAt": "2026-11-27T19:34:11.982Z"
 }

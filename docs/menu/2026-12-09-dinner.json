@@ -1,0 +1,68 @@
+{
+  "date": "2026-12-09",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Ezogelin Çorbası",
+      "category": "soup",
+      "kcal": 197.1,
+      "protein": 7.4,
+      "carb": 19.2,
+      "fat": 8.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Domates Soslu Fırın Piliç",
+      "category": "main",
+      "kcal": 494.3,
+      "protein": 36.7,
+      "carb": 2.2,
+      "fat": 28.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Arpa Şehriye Pilavı",
+      "category": "side",
+      "kcal": 331.9,
+      "protein": 8.1,
+      "carb": 45.8,
+      "fat": 12.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Elma",
+      "category": "extra",
+      "kcal": 104.4,
+      "protein": 0.5,
+      "carb": 25.9,
+      "fat": 0,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mevsim Salatası",
+      "category": "extra",
+      "kcal": 87,
+      "protein": 1.6,
+      "carb": 6.1,
+      "fat": 5.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Soya Soslu Sebze",
+      "category": "extra",
+      "kcal": 62.5,
+      "protein": 2.2,
+      "carb": 5.7,
+      "fat": 3.4,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-27T19:34:20.170Z"
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-12-11",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Tarhana Çorbası",
+      "category": "soup",
+      "kcal": 102.8,
+      "protein": 0.3,
+      "carb": 0.6,
+      "fat": 5.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "İzmir Köfte",
+      "category": "main",
+      "kcal": 345.8,
+      "protein": 21.4,
+      "carb": 17.2,
+      "fat": 23.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Soslu Makarna",
+      "category": "side",
+      "kcal": 303.8,
+      "protein": 8,
+      "carb": 43.7,
+      "fat": 9.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Ayran",
+      "category": "extra",
+      "kcal": 91.4,
+      "protein": 4.8,
+      "carb": 6.2,
+      "fat": 5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Şekerpare",
+      "category": "extra",
+      "kcal": 417.6,
+      "protein": 2.5,
+      "carb": 82,
+      "fat": 9.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Elma Dilim Patates Kızartması",
+      "category": "extra",
+      "kcal": 162.6,
+      "protein": 3.1,
+      "carb": 19.5,
+      "fat": 7,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-27T19:34:21.253Z"
+}

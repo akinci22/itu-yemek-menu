@@ -1,0 +1,58 @@
+{
+  "date": "2026-12-02",
+  "meal": "lunch",
+  "label": "Öğle Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Mercimek Çorbası",
+      "category": "soup",
+      "kcal": 186.8,
+      "protein": 8.4,
+      "carb": 17.1,
+      "fat": 8.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Fırın Balık (uskumru)",
+      "category": "main",
+      "kcal": 391.2,
+      "protein": 31.4,
+      "carb": 0,
+      "fat": 37.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Arrabiata Soslu Makarna",
+      "category": "side",
+      "kcal": 311.8,
+      "protein": 8,
+      "carb": 45.8,
+      "fat": 9.8,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Tahinli Cevizli Kabak Tatlısı",
+      "category": "extra",
+      "kcal": 426.7,
+      "protein": 3.1,
+      "carb": 87.5,
+      "fat": 6.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Havuç-turp Salatası",
+      "category": "extra",
+      "kcal": 139.6,
+      "protein": 1.4,
+      "carb": 8.1,
+      "fat": 10.3,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-27T19:34:13.828Z"
+}

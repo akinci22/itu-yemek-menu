@@ -1,0 +1,68 @@
+{
+  "date": "2026-12-07",
+  "meal": "dinner",
+  "label": "Akşam Yemeği Menüsü",
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Andaloz Çorbası",
+      "category": "soup",
+      "kcal": 141.5,
+      "protein": 1.7,
+      "carb": 12.2,
+      "fat": 9.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Rosto Köfte",
+      "category": "main",
+      "kcal": 354.8,
+      "protein": 21.4,
+      "carb": 17.2,
+      "fat": 24.1,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Bulgur Pilavı",
+      "category": "side",
+      "kcal": 317.7,
+      "protein": 5.4,
+      "carb": 39.3,
+      "fat": 12.6,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mandalina",
+      "category": "extra",
+      "kcal": 90,
+      "protein": 1.3,
+      "carb": 18.2,
+      "fat": 0.5,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Mevsim Salatası",
+      "category": "extra",
+      "kcal": 87,
+      "protein": 1.6,
+      "carb": 6.1,
+      "fat": 5.3,
+      "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Sebzeli Püre",
+      "category": "extra",
+      "kcal": 115,
+      "protein": 2.8,
+      "carb": 15.5,
+      "fat": 3.2,
+      "vegetarian": false
+    }
+  ],
+  "capturedAt": "2026-11-27T19:34:18.706Z"
+}
