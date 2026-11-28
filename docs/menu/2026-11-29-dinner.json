@@ -52,7 +52,17 @@
       "carb": 2.1,
       "fat": 6.6,
       "vegetarian": false
+    },
+    {
+      "id": 0,
+      "name": "Garnitür Patates Püresi",
+      "category": "extra",
+      "kcal": 86.4,
+      "protein": 2.2,
+      "carb": 13.8,
+      "fat": 1,
+      "vegetarian": false
     }
   ],
-  "capturedAt": "2026-11-28T00:18:28.840Z"
+  "capturedAt": "2026-11-28T18:20:36.970Z"
 }
